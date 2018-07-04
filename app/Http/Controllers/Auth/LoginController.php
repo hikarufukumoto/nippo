@@ -36,4 +36,22 @@ class LoginController extends Controller
     {
         $this->middleware('guest')->except('logout');
     }
+    
+    public function nickname()
+    {
+    return 'nickname';
+    }
+    
+        /**
+     * 認証を処理する
+     *
+     * @return Response
+     */
+    public function authenticate()
+    {
+        if (Auth::attempt(['nickname' => $nickname, 'password' => $password])) {
+            // 認証に成功した
+            return redirect()->intended('dashboard');
+        }
+    }
 }
