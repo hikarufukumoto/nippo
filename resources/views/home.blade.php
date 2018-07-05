@@ -16,6 +16,12 @@
 
                     You are logged in!
                 </div>
+                
+                 <ul>
+    @foreach($data as $d)
+      <li>{{$d->content}}</li>
+    @endforeach
+  </ul>
             </div>
         </div>
     </div>
