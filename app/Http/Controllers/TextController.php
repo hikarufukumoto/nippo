@@ -14,6 +14,6 @@ class TextController extends Controller
     $data = $md->getData();
 
     // ビューを返す
-    return view('/home', ['data' => $data]);
+    return view('/result', ['data' => $data]);
   }
 }

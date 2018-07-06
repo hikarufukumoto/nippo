@@ -17,7 +17,7 @@ class Text extends Model
 
   public function getData()
   {
-    $select = rand(1,2);
+    $select = rand(1,2); //idの最大値を入力する
     $data = DB::table('texts')->where('id',$select)->get();
 
     return $data;

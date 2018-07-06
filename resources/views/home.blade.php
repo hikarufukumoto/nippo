@@ -16,12 +16,11 @@
 
                     You are logged in!
                 </div>
-                
-                 <ul>
-    @foreach($data as $d)
-      <li>{{$d->content}}</li>
-    @endforeach
-  </ul>
+                 <div> 
+                 <a href='result' button class="btn btn-block btn-default" type="submit"></a>
+                 
+                 </div>
+                 
             </div>
         </div>
     </div>
