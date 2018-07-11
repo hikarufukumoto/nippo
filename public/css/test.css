@@ -1,0 +1,95 @@
+.choose{
+    width: 1000px;
+    height:250px;
+    margin:0 auto;
+    margin-top: 100px;
+    
+}
+
+.positive{
+    width: 150px;
+    float: left;
+    margin-right:100px; 
+}
+
+.negative{
+    width:150px;
+    float:left;
+    margin-right:100px; 
+}
+
+.feeling{
+    width:150px;
+    float:left;
+    margin-right:100px; 
+}
+
+.special{
+    width: 150px;
+    float:left;
+}
+
+.intro {
+    font-weight: 200;
+    font-size: 25px;
+    text-align: center;
+}
+
+.result {
+    font-weight: 200;
+    font-size: 25px;
+    text-align: center;
+}
+
+.setsumei{
+    text-align: center;
+}
+
+
+
+
+
+.choosebtn{
+    text-align: center;
+}
+
+
+
+.te{
+    margin-top: 10px;
+    padding: 10px 50px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+input[type=checkbox] {
+	display: none; 	/* チェックボックスを非表示にする */
+}
+
+.label {
+    background: #31A9EE;
+	display: block;		/* ブロックレベル要素化する */ 
+	float: left;		/* 要素の左寄せ・回り込を指定する */ 
+	margin: 5px;		/* ラベル外側の余白を指定する */
+	width: 150px;		/* ラベルの横幅を指定する */
+	height: 50px;		/* ラベルの高さを指定する */
+	text-align: center;	/* テキストのセンタリングを指定する */
+	line-height: 45px;	/* 行の高さを指定する */
+	padding-left: 5px;	/* ラベル内左側の余白を指定する */
+	padding-right: 5px;	/* ラベル内右側の余白を指定する */
+	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
+	color:black;			/* フォントの色を指定 */
+	border: 2px solid #006DD9;/* ラベルの境界線を実線で指定する */
+	border-radius: 5px;		/* 角丸を指定する */
+	
+}
+
+input[type=checkbox]:checked + label {
+	background: red;/* マウス選択時の背景色を指定する */
+	color: #ffffff; 	/* マウス選択時のフォント色を指定する */
+}
+
+.text{
+   font-size: 25px;
+   margin-top: 7px;
+}
+

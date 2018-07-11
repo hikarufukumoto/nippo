@@ -29,7 +29,7 @@ Route::group(['middleware' => ['auth']], function () {
 
 Auth::routes();
 
-Route::get('/result', 'TextController@index')->name('tired');
+Route::post('/result', 'TextController@index');
 Route::get('/home', 'HomeController@index')->name('home');
 
 
