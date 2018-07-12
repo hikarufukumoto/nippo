@@ -37,6 +37,7 @@ class HappyController extends Controller
       "nervous"=>[],
       "impressed"=>[],
       "important"=>[],
+      "special"=>[],
       ];
     
     if (Request::has('happy')) {
