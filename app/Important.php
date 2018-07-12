@@ -18,7 +18,7 @@ class Important extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = 1;
+   $select = rand(1,45);
    $important = DB::table('important')->where('id',$select)->get();
 
     return $important;

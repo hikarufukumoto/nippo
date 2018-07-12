@@ -18,7 +18,7 @@ class Expect extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = 1;
+   $select = rand(1,30);
    $expect = DB::table('expect')->where('id',$select)->get();
 
     return $expect;

@@ -18,7 +18,7 @@ class Happy extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = 1;
+   $select = rand(1,37);
    $data = DB::table('happy')->where('id',$select)->get();
 
     return $data;

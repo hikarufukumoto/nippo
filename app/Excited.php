@@ -18,7 +18,7 @@ class Excited extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = 1;
+   $select = rand(1,8);
    $excited = DB::table('excited')->where('id',$select)->get();
 
     return $excited;

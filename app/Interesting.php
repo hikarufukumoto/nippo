@@ -18,7 +18,7 @@ class Interesting extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = 1;
+   $select = rand(1,22);
     $interesting= DB::table('interesting')->where('id',$select)->get();
 
     return $interesting;

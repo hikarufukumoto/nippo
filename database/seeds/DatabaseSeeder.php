@@ -13,6 +13,20 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
           HappyTableSeeder::class,
+          InterestingTableSeeder::class,
+          ExpectTableSeeder::class,
+          ExcitedTableSeeder::class,
+          SatisfiedTableSeeder::class,
+          TiredTableSeeder::class,
+          ConfusedTableSeeder::class,
+          WorriedTableSeeder::class,
+          HardTableSeeder::class,
+          NervousTableSeeder::class,
+          ImpressedTableSeeder::class,
+          ImportantTableSeeder::class,
+          SpecialTableSeeder::class,
         ]);
     }
 }
+
+
