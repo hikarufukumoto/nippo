@@ -46,44 +46,48 @@
                             <div class="intro"><label for="whatwedid"></label>
                             Today we worked on <input type="text" id="whatwedid" name=""></div></form>
                     </div>
-                    <div class="choose">
+                    <div class="choose"><form action="/result" method="post">
                     <div class="positive">
                         <form action="/result" method="post">
-                         <input type="checkbox" name="positive[]" value="1" id="happy"> 
+                         <input type="checkbox" name="happy" value="1" id="happy"> 
                          <label for="happy" class="label"><div class="text">Happy</div></label>
-                         <input type="checkbox" name="positive[]" value="2" id="interesting">
+                         <input type="checkbox" name="interesting" value="2" id="interesting">
                          <label for="interesting" class="label"><div class="text">Interesting</div></label>
-                         <input type="checkbox" name="positive[]" value="3" id="hope">
-                         <label for="hope" class="label"><div class="text">Expect</div></label>
-                         <input type="checkbox" name="positive[]" value="4" id="excited">
+                         <input type="checkbox" name="expect" value="3" id="expect">
+                         <label for="expect" class="label"><div class="text">Expect</div></label>
+                         <input type="checkbox" name="excited" value="4" id="excited">
                          <label for="excited" class="label"><div class="text">Excited</div></label>
-                         <input type="checkbox" name="positive[]" value="5" id="satisfied">
+                         <input type="checkbox" name="satisfied" value="5" id="satisfied">
                          <label for="satisfied" class="label"><div class="text">Satisfied</div></label>
-                         <input type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}"></form>
+                         
+                        
                     </div>
                     <div class="negative clearfix">
-                          <input type="checkbox" name="negative" value="6" id="tired">
+                        <form action="/result" method="post">
+                          <input type="checkbox" name="tired" value="6" id="tired">
                          <label for="tired" class="label"><div class="text">Tired</div></label>
-                         <input type="checkbox" name="negative" value="7" id="confused">
+                         <input type="checkbox" name="confused" value="7" id="confused">
                          <label for="confused" class="label"><div class="text">Confused</div></label>
-                         <input type="checkbox" name="negative" value="8" id="worried">
+                         <input type="checkbox" name="worried" value="8" id="worried">
                          <label for="worried" class="label"><div class="text">Worried</div></label>
-                         <input type="checkbox" name="negative" value="9" id="hard">
+                         <input type="checkbox" name="hard" value="9" id="hard">
                          <label for="hard" class="label"><div class="text">Hard</div></label>
-                         <input type="checkbox" name="negative" value="10" id="nervous">
+                         <input type="checkbox" name="nervous" value="10" id="nervous">
                          <label for="nervous" class="label"><div class="text">Nervous</div></label>
+                         
                     </div>
                     <div class="feeling clearfix">
-                        <input type="checkbox" name="feeling" value="11" id="impressed">
+                        <input type="checkbox" name="impressed" value="11" id="impressed">
                          <label for="impressed" class="label"><div class="text">Impressed</div></label>
-                         <input type="checkbox" name="positive" value="12" id="important">
+                         <input type="checkbox" name="important" value="12" id="important">
                          <label for="important" class="label"><div class="text">Important</div></label>
                     </div>
                     <div class="special clearfix">
-                        <input type="checkbox" name="positive" value="1" id="special">
+                        <input type="checkbox" name="special" value="13" id="special">
                          <label for="special" class="label"><div class="text">Special</div></label>
-            
+                    
                     </div>
+                    <input type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}"></form>
                     </div>
                    <div class="setsumei">Please Choose at Least 3 from Above</div>
                    

@@ -5,9 +5,9 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
 
-class Text extends Model
+class Happy extends Model
 {
-  protected $table = 'texts';
+  protected $table = 'happy';
 
   protected $guarded = array('id');
 
@@ -17,8 +17,9 @@ class Text extends Model
 
   public function getData()
   {
-    $select = rand(1,2); //idの最大値を入力する
-    $data = DB::table('texts')->where('id',$select)->get();
+   // $select = rand(1,2); //idの最大値を入力する
+   $select = 1;
+   $data = DB::table('happy')->where('id',$select)->get();
 
     return $data;
   }
