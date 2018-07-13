@@ -3,6 +3,7 @@
     height:250px;
     margin:0 auto;
     margin-top: 100px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     
 }
 
@@ -93,3 +94,18 @@ input[type=checkbox]:checked + label {
    margin-top: 7px;
 }
 
+.submitbutton{
+    margin-top: 10px;
+    padding: 10px 50px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.setsumei{
+    font-size: 25px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.workon{
+    font-size: 25px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}

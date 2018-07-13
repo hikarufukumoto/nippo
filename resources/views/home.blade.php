@@ -43,12 +43,13 @@
         <div class="col-md-8 col-md-offset-2">
             
                         
-                            <div class="intro"><label for="whatwedid"></label>
-                            Today we worked on <input type="text" id="whatwedid" name=""></div></form>
+                    <div class="intro"><label for="whatwedid"></label>
+                        <div class="workon">Today we worked on </div><input type="text" id="whatwedid" name=""></div>
                     </div>
-                    <div class="choose"><form action="/result" method="post">
+                    
+            <div class="choose"><form action="/result" method="post" class="submitbutton"><input type="submit"></form>
+                    
                     <div class="positive">
-                        <form action="/result" method="post">
                          <input type="checkbox" name="happy" value="1" id="happy"> 
                          <label for="happy" class="label"><div class="text">Happy</div></label>
                          <input type="checkbox" name="interesting" value="2" id="interesting">
@@ -59,11 +60,9 @@
                          <label for="excited" class="label"><div class="text">Excited</div></label>
                          <input type="checkbox" name="satisfied" value="5" id="satisfied">
                          <label for="satisfied" class="label"><div class="text">Satisfied</div></label>
-                         
-                        
                     </div>
+                    
                     <div class="negative clearfix">
-                        <form action="/result" method="post">
                           <input type="checkbox" name="tired" value="6" id="tired">
                          <label for="tired" class="label"><div class="text">Tired</div></label>
                          <input type="checkbox" name="confused" value="7" id="confused">
@@ -74,30 +73,26 @@
                          <label for="hard" class="label"><div class="text">Hard</div></label>
                          <input type="checkbox" name="nervous" value="10" id="nervous">
                          <label for="nervous" class="label"><div class="text">Nervous</div></label>
-                         
                     </div>
+                    
                     <div class="feeling clearfix">
-                        <input type="checkbox" name="impressed" value="11" id="impressed">
+                         <input type="checkbox" name="impressed" value="11" id="impressed">
                          <label for="impressed" class="label"><div class="text">Impressed</div></label>
                          <input type="checkbox" name="important" value="12" id="important">
                          <label for="important" class="label"><div class="text">Important</div></label>
                     </div>
+                    
                     <div class="special clearfix">
                         <input type="checkbox" name="special" value="13" id="special">
-                         <label for="special" class="label"><div class="text">Special</div></label>
+                        <label for="special" class="label"><div class="text">Special</div></label>
+                    </div>
                     
-                    </div>
-                    <input type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}"></form>
-                    </div>
-                   <div class="setsumei">Please Choose at Least 3 from Above</div>
-                   
-                   
-                   <div class="result">
-                       <input type="text" size="50">
-                       <INPUT TYPE="button" VALUE="コピー" onmousedown='window.clipboardData.setData("text");' onmouseup="alert('コピー完了')">
-                   </div> 
-                   
-
+                    
+                    
+                    
+            </div>
+            <div class="setsumei">Please Choose at Least 3 from Above</div>
+        </div>
     </div>
 </div>
 
