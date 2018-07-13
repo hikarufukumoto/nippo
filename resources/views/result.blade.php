@@ -38,65 +38,65 @@
 
 
 @section('content')
-<div class="container">
+<div class="container1">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             
-                    <div>
+                        Today, we worked on 
                          @foreach($happy as $d)
-                          {{$d->sentence}}
+                          <div class="result">{{$d->sentence}} </div>
                          @endforeach
                          
                          @foreach($interesting as $a)
-                          {{$a->sentence}}
+                          <div class="result">{{$a->sentence}}</div>
                          @endforeach
                          
                          @foreach($expect as $b)
-                          {{$b->sentence}}
+                          <div class="result"> {{$b->sentence}}</div>
                          @endforeach
                          
                          @foreach($excited as $c)
-                          {{$c->sentence}}
+                          <div class="result"> {{$c->sentence}}</div>
                          @endforeach
                          
                           @foreach($satisfied as $e)
-                          {{$e->sentence}}
+                         <div class="result">{{$e->sentence}}</div>
                          @endforeach
                          
                           @foreach($tired as $f)
-                          {{$f->sentence}}
+                          <div class="result">  {{$f->sentence}}</div>
                          @endforeach
                          
                           @foreach($confused as $g)
-                          {{$g->sentence}}
+                         <div class="result">{{$g->sentence}}</div>
                          @endforeach
                           
                           @foreach($worried as $h)
-                          {{$h->sentence}}
+                         <div class="result">{{$h->sentence}}</div>
                          @endforeach
                          
                          @foreach($hard as $i)
-                          {{$i->sentence}}
+                         <div class="result">{{$i->sentence}}</div>
                          @endforeach
                          
                          @foreach($nervous as $j)
-                          {{$j->sentence}}
+                         <div class="result"> {{$j->sentence}}</div>
                          @endforeach
                          
                          @foreach($impressed as $k)
-                          {{$k->sentence}}
+                          <div class="result">{{$k->sentence}}</div>
                          @endforeach
                          
                          @foreach($important as $l)
-                          {{$l->sentence}}
+                          <div class="result">{{$l->sentence}}</div>
                          @endforeach
                          
                          @foreach($special as $m)
-                          {{$m->sentence}}
+                          <div class="result">{{$m->sentence}}</div>
                          @endforeach
                          
                          
-                    </div>
+                   
     </div>
 </div>
 

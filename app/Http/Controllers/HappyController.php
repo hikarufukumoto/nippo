@@ -23,7 +23,7 @@ class HappyController extends Controller
   public function index()
   {
     //dd(Request::all());
-    
+
     $data = [
       "happy" =>[],
       "interesting"=>[],
