@@ -42,61 +42,49 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             
-                        Today, we worked on 
+                        <div class="workonon">Today, we worked on 
+                         $dounyu
+                        </div>
                          @foreach($happy as $d)
-                          <div class="result">{{$d->sentence}} </div>
+                          <span class="result">{{$d->sentence}} </span>
                          @endforeach
-                         
                          @foreach($interesting as $a)
-                          <div class="result">{{$a->sentence}}</div>
+                          <span class="result">{{$a->sentence}}</span>
                          @endforeach
-                         
                          @foreach($expect as $b)
-                          <div class="result"> {{$b->sentence}}</div>
+                          <span class="result"> {{$b->sentence}}</span>
                          @endforeach
-                         
                          @foreach($excited as $c)
-                          <div class="result"> {{$c->sentence}}</div>
+                          <span class="result"> {{$c->sentence}}</span>
                          @endforeach
-                         
                           @foreach($satisfied as $e)
-                         <div class="result">{{$e->sentence}}</div>
+                         <span class="result">{{$e->sentence}}</span>
                          @endforeach
-                         
                           @foreach($tired as $f)
-                          <div class="result">  {{$f->sentence}}</div>
+                          <span class="result">  {{$f->sentence}}</span>
                          @endforeach
-                         
                           @foreach($confused as $g)
-                         <div class="result">{{$g->sentence}}</div>
+                         <span class="result">{{$g->sentence}}</span>
                          @endforeach
-                          
                           @foreach($worried as $h)
-                         <div class="result">{{$h->sentence}}</div>
+                         <span class="result">{{$h->sentence}}</span>
                          @endforeach
-                         
                          @foreach($hard as $i)
-                         <div class="result">{{$i->sentence}}</div>
+                         <span class="result">{{$i->sentence}}</span>
                          @endforeach
-                         
                          @foreach($nervous as $j)
-                         <div class="result"> {{$j->sentence}}</div>
+                         <span class="result"> {{$j->sentence}}</span>
                          @endforeach
-                         
                          @foreach($impressed as $k)
-                          <div class="result">{{$k->sentence}}</div>
+                          <span class="result">{{$k->sentence}}</span>
                          @endforeach
-                         
                          @foreach($important as $l)
-                          <div class="result">{{$l->sentence}}</div>
+                          <span class="result">{{$l->sentence}}</span>
                          @endforeach
-                         
                          @foreach($special as $m)
-                          <div class="result">{{$m->sentence}}</div>
+                          <span class="result">{{$m->sentence}}</span>
                          @endforeach
-                         
-                         
-                   
+                       
     </div>
 </div>
 

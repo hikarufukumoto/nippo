@@ -43,10 +43,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="intro"><label for="whatwedid"></label>
-            Today we worked on <input type="text" id="whatwedid" name="">
+            Today we worked on <input type="text" id=dounyu name="">
             </div>
         </div>
-        <div class="text1">あなたの今の気持ちをえらんでください。（３つ以上）</div>
+        <div class="text1">Please choose at least 3 from followings. </div>
         <div class="choose"><form action="/result" method="post">
             
                     <div class="positive">

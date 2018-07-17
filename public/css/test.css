@@ -11,6 +11,7 @@
     margin:0 auto;
     float:left;
     margin-top:30px;
+    color: #6c757d;
 }
 
 .positive{
@@ -77,7 +78,7 @@ input[type=checkbox] {
 }
 
 .label {
-    background: #31A9EE;
+    background: #f05f40;
 	display: block;		/* ブロックレベル要素化する */ 
 	float: left;		/* 要素の左寄せ・回り込を指定する */ 
 	margin: 5px;		/* ラベル外側の余白を指定する */
@@ -89,13 +90,13 @@ input[type=checkbox] {
 	padding-right: 5px;	/* ラベル内右側の余白を指定する */
 	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
 	color:black;			/* フォントの色を指定 */
-	border: 2px solid #006DD9;/* ラベルの境界線を実線で指定する */
+	border: 2px solid #343a40;/* ラベルの境界線を実線で指定する */
 	border-radius: 5px;		/* 角丸を指定する */
 	
 }
 
 input[type=checkbox]:checked + label {
-	background: red;/* マウス選択時の背景色を指定する */
+	background: black;/* マウス選択時の背景色を指定する */
 	color: #ffffff; 	/* マウス選択時のフォント色を指定する */
 }
 
@@ -113,7 +114,7 @@ input[type=checkbox]:checked + label {
 input#submit_button {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     margin: 0 auto;
-    background: #000099;
+    background: white;
 	display: block;		/* ブロックレベル要素化する */ 	
 	margin: 5px;		/* ラベル外側の余白を指定する */
 	width: 150px;		/* ラベルの横幅を指定する */
@@ -123,8 +124,8 @@ input#submit_button {
 	padding-left: 5px;	/* ラベル内左側の余白を指定する */
 	padding-right: 5px;	/* ラベル内右側の余白を指定する */
 	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
-	color:white;			/* フォントの色を指定 */
-	border: 2px solid #000099;/* ラベルの境界線を実線で指定する */
+	color:black;			/* フォントの色を指定 */
+	border: 2px solid black;/* ラベルの境界線を実線で指定する */
 	border-radius: 5px;	
 	font-size: 30px;
 	position:absolute; 
@@ -150,4 +151,12 @@ input#submit_button {
 .container1{
     background-color:white;
     margin:0 auto;
+    width:60%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.workonon{
+    font-size: 11pt;
+    font-family:Arial;
+    color:black;
 }

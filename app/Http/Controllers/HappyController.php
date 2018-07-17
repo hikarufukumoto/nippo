@@ -25,6 +25,7 @@ class HappyController extends Controller
     //dd(Request::all());
 
     $data = [
+      "dounyu" =>[],
       "happy" =>[],
       "interesting"=>[],
       "expect"=>[],
@@ -39,6 +40,9 @@ class HappyController extends Controller
       "important"=>[],
       "special"=>[],
       ];
+    
+    
+    
     
     if (Request::has('happy')) {
     
