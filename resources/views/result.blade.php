@@ -42,9 +42,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             
-                        <div class="workonon">Today, we worked on 
-                         $dounyu
-                        </div>
+                        <div class="workonon">Today, we worked on {{ $name }}.
+                        
+                        
+                        
                          @foreach($happy as $d)
                           <span class="result">{{$d->sentence}} </span>
                          @endforeach
@@ -84,6 +85,9 @@
                          @foreach($special as $m)
                           <span class="result">{{$m->sentence}}</span>
                          @endforeach
+                         
+                         
+                         </div>
                        
     </div>
 </div>

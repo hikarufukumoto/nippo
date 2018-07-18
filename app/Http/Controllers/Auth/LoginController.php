@@ -51,7 +51,7 @@ class LoginController extends Controller
     {
         if (Auth::attempt(['nickname' => $nickname, 'password' => $password])) {
             // 認証に成功した
-            return redirect()->intended('dashboard');
+            return redirect()->intended('/home');
         }
     }
 }

@@ -20,6 +20,14 @@ use Request;
 
 class HappyController extends Controller
 {
+ 
+ public function content(Request $request)
+ {
+  //$name = $request->get('shiba');
+  return '';
+  return view('result',['name'=>$name]);
+ }
+ 
   public function index()
   {
     //dd(Request::all());
@@ -161,6 +169,9 @@ class HappyController extends Controller
     $special = $md->getData();
     $data['special'] = $special;
     }
+    
+    
+    $data['name'] = Request::get('shiba');
     
     // ビューを返す
     return view('/result',$data);

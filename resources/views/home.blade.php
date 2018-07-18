@@ -35,22 +35,25 @@
    </head> 
    
    
-@extends('layouts.app')
+<!--@extends('layouts.app')-->
 
 
 @section('content')
 <div class="container">
+    <form action="/result" method="post">
+    
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="intro"><label for="whatwedid"></label>
-            Today we worked on <input type="text" id=dounyu name="">
+            Today we worked on <input type="text" id=dounyu name="shiba">.
+            
             </div>
         </div>
         <div class="text1">Please choose at least 3 from followings. </div>
-        <div class="choose"><form action="/result" method="post">
+        <div class="choose">
             
                     <div class="positive">
-                        <form action="/result" method="post">
+                        
                         <input type="checkbox" name="happy" value="1" id="happy"> 
                         <label for="happy" class="label"><div class="text">Happy</div></label>
                         <input type="checkbox" name="interesting" value="2" id="interesting">
@@ -63,7 +66,7 @@
                         <label for="satisfied" class="label"><div class="text">Satisfied</div></label>
                     </div>
                     <div class="negative clearfix">
-                        <form action="/result" method="post">
+                        
                         <input type="checkbox" name="tired" value="6" id="tired">
                         <label for="tired" class="label"><div class="text">Tired</div></label>
                         <input type="checkbox" name="confused" value="7" id="confused">
@@ -90,6 +93,8 @@
                     <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
         </div>
     </div>
+    
+    </form>
 </div>
 
 @endsection

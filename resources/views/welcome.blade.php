@@ -28,39 +28,41 @@
 
   <body id="page-top">
 
-    <!-- Navigation -->
+<!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">NIPPO</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-                <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
-                    @endauth
-                </div>
-            @endif
+        <div class="flex-center position-ref full-height">
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+              <a class="nav-link js-scroll-trigger" href="#about">About Service</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Contact us</a>
+            </li>
+
+            @if (Route::has('login'))
+            @auth
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="{{ url('/home') }}">Create NIPPO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+            <a class="nav-link js-scroll-trigger" href="{{ route('logout') }}">Logout</a>
+            </li>
+            @else
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="{{ route('login') }}">Login</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            <a class="nav-link js-scroll-trigger" href="{{ route('register') }}">Register</a>
             </li>
+            @endauth
           </ul>
+            @endif
         </div>
       </div>
     </nav>
@@ -89,7 +91,7 @@
             <h2 class="section-heading text-white">We've got what you need!</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">Start NIPPO has everything you need to get your new simple daily report! All of the templates and themes are based on all daily report of 18NG. Feel free to download, and easy to use!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="/home">Get Started!</a>
           </div>
         </div>
       </div>
@@ -150,7 +152,7 @@
                     Product Owner
                   </div>
                   <div class="project-name">
-                    Ryotaro Shiba
+                    Ryotaro
                   </div>
                 </div>
               </div>
@@ -165,7 +167,7 @@
                     Psycho Pass
                   </div>
                   <div class="project-name">
-                    Daichi Morimoto
+                    Daichi
                   </div>
                 </div>
               </div>
@@ -180,7 +182,7 @@
                     ♡nyangnyang♡
                   </div>
                   <div class="project-name">
-                    Hikaru Fukumoto
+                    Karly
                   </div>
                 </div>
               </div>
@@ -195,7 +197,7 @@
                     Scrum Master
                   </div>
                   <div class="project-name">
-                    Shota Minami
+                    Jamie
                   </div>
                 </div>
               </div>
@@ -210,7 +212,7 @@
                     Monster
                   </div>
                   <div class="project-name">
-                    Haewon Kim
+                    Hayley
                   </div>
                 </div>
               </div>
@@ -225,7 +227,7 @@
                     Happy
                   </div>
                   <div class="project-name">
-                    Naohiro Sugaya
+                    Nao
                   </div>
                 </div>
               </div>

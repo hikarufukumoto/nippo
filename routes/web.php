@@ -33,5 +33,7 @@ Route::post('/result', 'HappyController@index');
 //Route::post('/result', 'InterestingController@index');
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/result', 'HappyController@content')->name('shiba');
+
 
 
