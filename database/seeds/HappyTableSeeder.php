@@ -107,7 +107,7 @@ class HappyTableSeeder extends Seeder
         ],
         [
           'sentence' => "Since we were able to work well as one team, I felt very happy today.",
-        ],
+       ],
         [
           'sentence' => "I think our group members were all happy because we were able to solve several problems we had today.",
         ],
@@ -123,9 +123,51 @@ class HappyTableSeeder extends Seeder
         [
           'sentence' => "We were able to communicate well today in our group which made me very happy.",
         ],
+        [
+          'sentence' => "I was so glad today!!! Why am I so glad? The reason was to achieve my goal. But I need to be on the alert. So I want to seek next goal.",
+        ],
+        [
+          'sentence' => "I was very happy, because I was able to achieve today's goal. The reason that I achieved it was to be able to keep the big effort for a long term. I want to praise myself.",
+        ],
+        [
+          'sentence' => "I was so happy today because my sworn douki spoke in front of us. I was influenced by him and I decided to speech in front of our doukis next time.",
+        ],
+        [
+          'sentence' => "Today, I could achieve the goal that I was targeting for a long term. So today was a happiness day for me. I want to set next goal, and I want to achieve it again.",
+        ],
+        [
+          'sentence' => "I'm so happy to be Rakutenian, because there are a lot of people who have high motivation and have good entrepreneurship. ",
+        ],
+         [
+          'sentence' => "I'm pleased to say that my team finally finished our project. It was quite a long struggle to us, but, we finally made it. We want to praise ourselves.",
+        ],
+        [
+          'sentence' => "I am pleased to present the results of my challenge. Actually, I have started to pay more attention to my doukis since last week. Everyday, I talked with a new douki, and I could be their friend who talked with me. This challenge worked for me. ",
+        ],
+        [
+          'sentence' => "It was so happiness for me that our team could create a great relationship each other. The reason was that we  have a メリハリ during the daily new grads training. We want to keep it.",
+        ],
+        [
+          'sentence' => "Today, I encountered so difficult obstacles. I think that it may be hard to overcome it. But if I'm able to overcome it, I believe that I can grow up furthermore. So I want to make a big effort.",
+        ],
+        [
+          'sentence' => " I was very happy today, because my teammate looked happy. I guessed the reason  they looked happy  is  that they could get partner.",
+        ],
+        [
+          'sentence' => "Today, I could listen to my teammate's dream that he want to achieve at here. So it was a happiness for me. At the same time, I was impressed by him and I thought that I need to imagine more about my future.",
+        ],
         
 
- ]);
+]);
         
     }
 }
+
+
+
+
+
+
+
+
+

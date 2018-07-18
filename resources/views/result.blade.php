@@ -92,6 +92,26 @@
     </div>
 </div>
 </div>
+
+<div class="supersmart">
+
+          <div class="smart1">SMART Goal 1: 
+          <br>	Why→</br>
+          </div>
+
+          <div class="smart2">SMART Goal 2: 
+          <br>	Why→</br>
+          </div>
+ 
+          <div class="smart3">SMART Goal 3: 
+          <br>	Why→</br>
+          </div>
+          
+         
+          
+          <a class="btnback" href="{{ url('/home') }}">Back</a>
+          
+</div>
 @endsection
 
 
