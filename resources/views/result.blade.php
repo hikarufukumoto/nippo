@@ -36,7 +36,7 @@
 @extends('layouts.app')
 
 
-
+<div class="zentai">
 @section('content')
 <div class="container1">
     <div class="row">
@@ -91,7 +91,7 @@
                        
     </div>
 </div>
-
+</div>
 @endsection
 
 

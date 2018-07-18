@@ -37,7 +37,7 @@
    
 <!--@extends('layouts.app')-->
 
-
+<header class="zentai">
 @section('content')
 <div class="container">
     <form action="/result" method="post">
@@ -93,8 +93,10 @@
                     <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
         </div>
     </div>
+ 
     
     </form>
 </div>
-
+  
+</header> 
 @endsection

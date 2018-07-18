@@ -78,7 +78,8 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="text-faded mb-5">Start NIPPO can help you write better daily report! Just download your template and start going!</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#services">Find Out More</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="/home">Login</a>
           </div>
         </div>
       </div>
@@ -91,7 +92,6 @@
             <h2 class="section-heading text-white">We've got what you need!</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">Start NIPPO has everything you need to get your new simple daily report! All of the templates and themes are based on all daily report of 18NG. Feel free to download, and easy to use!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="/home">Get Started!</a>
           </div>
         </div>
       </div>
@@ -236,30 +236,10 @@
         </div>
       </div>
     </section>
-    
-    <section id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Let's Get In Touch!</h2>
-            <hr class="my-4">
-            <p class="mb-5">If you have any problems using our service, please give us a call or send us an email and we will get back to you as soon as possible!</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 ml-auto text-center">
-            <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-            <p>123-456-6789</p>
-          </div>
-          <div class="col-lg-4 mr-auto text-center">
-            <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
-            <p>
-              <a href="mailto:your-email@your-domain.com">hiyokosankumi@purple.com</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    <div class="startbtn">
+    <a class="btn btn-light1 btn-xl js-scroll-trigger" href="/home">Get Started!</a>
+    </div>
+    <div class="copyright">Created by Hiyokosan inc.</div>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
