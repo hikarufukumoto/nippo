@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class ExpectTableSeeder extends Seeder
+class ConfusedTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -11,99 +11,164 @@ class ExpectTableSeeder extends Seeder
      */
     public function run()
     {
-      DB::table('expect')->insert([
+      DB::table('confused')->insert([
         [
-          'sentence' => "I’m looking forward to coming here and do this training with my team members who are so awesome.",
+          'sentence' => "I was confused since I tried to understand every single things.",
         ],
-        [
-          'sentence' => "I’m looking forward to cooperating with our team members and work as a team.",
-        ],
-        [
-          'sentence' => "I looking forward to developing our work by cooperating with my team members.",
-        ],
-        [
-          'sentence' => "I'm looking forward to working as a team in this group.",
-        ],
-        [
-          'sentence' => "I am looking forward to being a good Rakutenian and for that, I must make great efforts.",
-        ],
-        [
-          'sentence' => "All my teammates are looking forward to discussing with each other about our problems.",
-        ],
-        [
-          'sentence' => "I'm looking forward to hearing Mickey's speech in ASAKAI. It's very helpful for us to know what CEO's thought every week.",
-        ],
-        [
-          'sentence' => "I'm looking forward to meeting sempai because I want to absorb them a lot. I will use this precious chance well.",
-        ],
-        [
-          'sentence' => "I think all of our doukis are highly motivated and looking forward to absorbing many things.",
-        ],
-        [
-          'sentence' => "I'm looking forward to meeting other doukis this weekend. I think it is important to deepen friendship with doukis.",
-        ],
-        [
-          'sentence' => "Retrieving data. Wait a few seconds and try to cut or copy again.",
-        ],
-        [
-          'sentence' => "I am looking forward to getting more knowledge form every session we are going to join.",
-        ],
-        [
-          'sentence' => "I am looking forward to meeting all doukis everyday. All of my doukis have a good abilities in many aspects. So I can spend precious time.",
-        ],
-        [
-          'sentence' => "All of my teammates have a outstanding abilities. So I'm looking forward to meeting them everyday.",
-        ],
-        [
-          'sentence' => "I am able to spend precious time everyday, because I have many good friends in doukis. I'm looking forward to meeting them everyday.",
-        ],
-        [
-          'sentence' => "We are so looking forward to meeting all doukis everyday. All of our doukis have a good abilities in many aspects. I think we are spending precious time.",
-        ],
-        [
-          'sentence' => "I'm looking forward to meeting our teammates everyday. And My teammates are looking forward to meeting me, too. That is because we can create a good relationships each other.",
-        ],
-        [
-          'sentence' => "I was looking forward to doing today's training. And I was able to enjoy and learn more things from it. At the same time, I think I was able to keep my concentration. I want to keep today's behavior.",
-        ],
-        [
-          'sentence' => "All of my teammates are highly motivated. I'm looking forward to meeting them everyday and every times. I spend so precious time.",
-        ],
-        [
-          'sentence' => "I'm looking forward to participating in special event like Keep Smiling Day and Yukata-Day etc... I think it is a good chance to meet new people who belong to another company.",
-        ],
-        [
-          'sentence' => "I'm looking forward to eating a lunch with doukis. Because they have a different point of view to think and I can learn a lot of things from them.",
-        ],
-        [
-          'sentence' => "I'm looking forward to getting to know character of doukis because they have many experiences which I don't have and I can learn different ways of thinking from them.",
-        ],
-        [
-          'sentence' => "I am looking forward to getting some feedbacks from other department's senpais at the end of this training.",
-        ],
-        [
-          'sentence' => "We will devote ourselves to make our training really great and look forward to showing our progress to everyone.",
-        ],
-        [
-          'sentence' => "I am so curious about new things, so I'm looking forward to learning about what we don't know. I will try new things aggressively.",
-        ],
-        [
-          'sentence' => "I am not sure what is exactly business casual.I'm looking forward to seeing my douki's fashion and at the same time, I have to learn from them.",
-        ],
-        [
-          'sentence' => "I'm looking forward to getting some feedbacks from my teammates about today's contents. Because I don't have any confident what I said today. So I want my teammates to review my opinion to think it over again.",
-        ],
-        [
-          'sentence' => "I could contact sempai who belong to Fintech which I am interested in. I'm looking forward to eating a lunch with sempai in next business day.",
-        ],
-        [
-          'sentence' => "All of my team mates were looking forward to coming to work here. I think we can have a good relationship.",
-        ],
-        [
-          'sentence' => "I'm looking forward to working with my teammates because I like my team and I think we can have a good relationship as a team.",
+         [
+          'sentence' => "I’ve learned a lot of skills, so I am completely confused.",
         ],
 
- ]);
+         [
+          'sentence' => "I was able to communicate with my members about what I couldn't understand and they helped me very much.",
+        ],
+         [
+          'sentence' => "The more I think about many things, the more I get confused and can’t decide what I really want to do.",
+        ],
+         [
+          'sentence' => "I was surprised and confused about what I have learned new today.",
+        ],
+         [
+          'sentence' => "I was confused about what should I do first.",
+        ],
+         [
+          'sentence' => "I had a lot of issues to discuss and I’m a little bit confused. I tried not to stop thinking and trying to improve.",
+        ],
+         [
+          'sentence' => "I am very confused because I had to avsorb huge amount of information.",
+        ],
+         [
+          'sentence' => "I tried to understand the contents by myself but I just ended up being confused.",
+        ],
+         [
+          'sentence' => "It’s important to make sure we are on the same level and try to understand how our team mates are looking at things.",
+        ],
+         [
+          'sentence' => "I am confused the number of doukis and I am not sure I can remember the name of them.",
+        ],
+        [
+          'sentence' => "Today's contents were so difficult. So I am very confused about it.",
+        ],
+        [
+          'sentence' => "Today's contents confused me, so I will have to review what I learned.",
+        ],
+        [
+          'sentence' => "We had discussions in my team but I confused the issue. So I have to think logically.",
+        ],
+        [
+          'sentence' => "I am sorry to confuse my team by a dopey answer  in discussion.  I had to reflect on my  behavior and not to do again.",
+        ],
+        [
+          'sentence' => "I was confused by today's contents because there were loads of things to remember.",
+        ],
+        [
+          'sentence' => "There were loads of things to remember. So I am very confused right now.",
+        ],
+        [
+          'sentence' => "I have to say sorry to my team because I confused them by being assertive. I had to reflect on my behavior and not be repeated.",
+        ],
+        [
+          'sentence' => "I asked some doukis about their future plan. I was confused that they had a clear vision about their future.",
+        ],
+        [
+          'sentence' => "I am not sure and confused when I have to speak frankly or business like. I thought that I will have to learn more.",
+        ],
+         [
+          'sentence' => "I was confused about what was the most imporatant task I should  do in this training because there are a lot of things I will have to do.",
+        ],
+         [
+          'sentence' => "I want to know what made my teammate confused because I like them. I'm very worried about them.",
+        ],
+         [
+          'sentence' => "I'm still confused about why sakura-san is always angry. I respect her so I want to support her.",
+        ],
+         [
+          'sentence' => "I was sorry that I made my teammate confused because of my domineering attitude. I will have to reflect on my behavior.",
+        ],
+         [
+          'sentence' => "By asking myself many times,I am getting confused what I would like to do and what to be in the future.",
+        ],
+         [
+          'sentence' => "I was confused the relationship between my douki, because I couldn't understand their thought. I will have to close the distance between our hearts by talking or drinking with them.",
+        ],
+         [
+          'sentence' => "I am very confused and frustrating why my teammate always scolded me. I decided to close the distance between our hearts by inviting them to dinner.",
+        ],
+         [
+          'sentence' => "I thought  my teammate were confused by creative idea that I suggested , so I wanted them to reach my level.",
+        ],
+         [
+          'sentence' => "The more I think about my career , the more I get confused. So I decide to meet senpai and absorb their thought and experience.",
+        ],
+         [
+          'sentence' => "I was surprised and a little confused about what I have learned new today but I'm happy to know that.",
+        ],
+         [
+          'sentence' => "I spent so much time on a problem of today training in the end, I asked my team mate and when I asked, he helped me out very kindly going over the things I need to work on one by one. By going over the things I need to do one by one, I realized that I was stuck because I did not know what to start with. Therefore from now on, I would like to make myself a little TODO list of the day to not get confused.",
+        ],
+         [
+          'sentence' => "I move on new task that I have planned before. I may be confused and slow down but I want I'll do my best.",
+        ],
+         [
+          'sentence' => "I had a lot to discuss with my team mates and I’m a little bit confused but I don’t stop thinking and trying to make a good one.",
+        ],
+         [
+          'sentence' => "I’ve learned a lot of skills, so I am completely confused today. But I never give up. I want to continue to endless effort.",
+        ],
+         [
+          'sentence' => "I am totally confused because today's task was very difficult to understand but I want to continue to  endless effort.",
+        ],
+         [
+          'sentence' => "I also need to imagine what I need, and what I want to solve for my project about making solutions.  It was a bit confused on me, so I was very serious to make a new plan.",
+        ],
+         [
+          'sentence' => "I thought about my future career but I’m still confused. I decided to meet a lot of sempai and ask him about essence.",
+        ],
+         [
+          'sentence' => "I sometimes got confused because I didn't know what my teammate thought.",
+        ],
+         [
+          'sentence' => "I learned a lot of things about business today. So many things confuse me. but, I think solve the issue one by one.",
+        ],
+         [
+          'sentence' => "I discussed with my team mates about our future plans. We were confused things about an undecided question. but, it was a good time for me had never before thought about it.",
+        ],
+         [
+          'sentence' => "Actually, I have never had such a trying time in my life. So many things that we have learned so far confuse me. ",
+        ],
+        [
+          'sentence' => "Through today's training, I  felt a lack of ability. I need not confuse the ideal with the real. I thought that i need to rethink my ability and what i wanted to do.",
+        ],
+        [
+          'sentence' => "I think I was talented, but I didn't have the concentration. I need not confuse the ideal with the real. I felt i needed to rethink my ability and what i wanted to do.",
+        ],
+        [
+          'sentence' => "I had trouble with my team because i couldn't communicate my opinion logically. I don't want to confuse my team mates, so I made notes. It was my KAIZEN on today.",
+        ],
+        [
+          'sentence' => " I am very confused because I spent hard time trying to output what I have learned so far. I will keep on making time to review.",
+        ],
+        [
+          'sentence' => " I am confused to myself because I have already forgotten the learning of today. I need to review about that today.",
+        ],
+        [
+          'sentence' => " I don't want to confuse my team mates. but, because of lack of my communications skill, I confuse my team mates. I thought that I need to improve my communications skill. ",
+        ],
+        [
+          'sentence' => " One of my doukis asked to me about business manner. The sudden question was confusing for me. I thought that I need to check about the business manner.",
+        ],
+        [
+          'sentence' => "I am having a tough time deciding on my career. I thought it was a little confusing myself. I decided to do what I love, what I really love to do.",
+        ],
+        [
+          'sentence' => "Recently, I am distressed because I'm not sure what i want to do. I'll admit to being confused, it's a very confusing time. On the one hand, I thought it would do me well. I believe that i will be a good choice.",
+        ],
+
+]);
         
     }
 }
+
+
+
+

@@ -18,7 +18,7 @@ class Worried extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = rand(1,12);
+   $select = rand(1,43);
    $worried = DB::table('worried')->where('id',$select)->get();
 
     return $worried;

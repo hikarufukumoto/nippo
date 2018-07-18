@@ -49,8 +49,103 @@ class WorriedTableSeeder extends Seeder
         [
           'sentence' => "I was  afraid of making mistakes. But I learned making mistakes is not bad things and we can learn from mistakes. So I want to change  my mind from tomorrow.",
         ],
+        [
+          'sentence' => "I am afraid that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+        ],
+        [
+          'sentence' => "I am anxious that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+        ],
+        [
+          'sentence' => "I am worried that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+        ],
+        [
+          'sentence' => "I was worried that I could understand all of what I learned today. So when I go home, I will have to review that.",
+        ],
+        [
+          'sentence' => "I am worried about my future career. Because there are many jobs which I want to do in this company. So I decided to meet some sempais to ask their jobs.",
+        ],
+        [
+          'sentence' => "I am so anxious about my future career. Because there are many jobs which I want to do in this company. So I decided to meet some sempais to ask their jobs.",
+        ],
+        [
+          'sentence' => "I am worried that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
+        ],
+        [
+          'sentence' => "I am anxious that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
+        ],
+        [
+          'sentence' => "I am afraid that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
+        ],
+        [
+          'sentence' => "I am worried about this training because there are a lot of things to learn in this training. I am not sure I can understand fully, but I have to keep doing my best.",
+        ],
+        [
+          'sentence' => "I am anxious about this training because there are a lot of things to learn in this training. I am not sure I can understand fully, but I have to keep doing my best.",
+        ],
+        [
+          'sentence' => "I am afraid of this training because there are a lot of things to learn in this training. I am not sure I can understand fully, but I have to keep doing my best.",
+        ],
+        [
+          'sentence' => "I'm worried about my future career, because I can't imagine what  I want to become in the future. So I want to imagine my future career during this new grads training.",
+        ],
+        [
+          'sentence' => "I'm anxious about my future career, because I can't imagine what  I want to become in the future. So I want to imagine my future career during this new grads training.",
+        ],
+        [
+          'sentence' => "I am worried about our team. I think we can have a very very good relationship but I feel that this relationship may be like a student one. So we have to change our mind right now and behave properly.",
+        ],
+        [
+          'sentence' => "I am anxious about our team. I think we can have a very very good relationship but I feel that this relationship may be like a student one. So we have to change our mind right now and behave properly.",
+        ],
+        [
+          'sentence' => "I am afraid of our team. I think we can have a very very good relationship but I feel that this relationship may be like a student one. So we have to change our mind right now and behave properly.",
+        ],
+        [
+          'sentence' => "I am worried about this training. Because I am not good at talking with a stranger which means not a friend. So it is a good chance for me to develop myself to be friendly person.",
+        ],
+        [
+          'sentence' => "I am anxious about this training. Because I am not good at talking with a stranger which means not a friend. So it is a good chance for me to develop myself to be friendly person.",
+        ],
+        [
+          'sentence' => "I am afraid of this training. Because I am not good at talking with a stranger which means not a friend. So it is a good chance for me to develop myself to be friendly person.",
+        ],
+        [
+          'sentence' => "I am anxious about the way of my life. I am not clever and so I am not sure I can manage both jobs and private things at the same time. I will ask sempais about this and I hope I can get some advices from them.",
+        ],
+        [
+          'sentence' => "I am worried about the way of my life. I am not clever and so I am not sure I can manage both jobs and private things at the same time. I will ask sempais about this and I hope I can get some advices from them.",
+        ],
+        [
+          'sentence' => "I am worried about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for Fintech, ask him about his career plan and I will use that for reference.",
+        ],
+        [
+          'sentence' => "I am anxious about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for Fintech, ask him about his career plan and I will use that for reference.",
+        ],
+        [
+          'sentence' => "I am anxious about health care. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+        ],
+        [
+          'sentence' => "I am worried about health care. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+        ],
+        [
+          'sentence' => "I am worried about our health. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+        ],
+        [
+          'sentence' => "I am anxious about our health. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+        ],
+        [
+          'sentence' => "I am anxious about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for EC, ask him about his career plan and I will use that for reference.",
+        ],
+        [
+          'sentence' => "I am afraid that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely, but I will keep doing my best for myself.",
+        ],
+        [
+          'sentence' => "I am anxious that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely, but I will keep doing my best for myself.",
+       ],
+        
 
- ]);
+]);
         
     }
 }
+

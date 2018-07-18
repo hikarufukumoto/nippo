@@ -75,8 +75,96 @@ class InterestingTableSeeder extends Seeder
          [
           'sentence' => "It is hard but also interesting to think about our future career.",
         ],
+        [
+          'sentence' => "I am interested in various jobs like EC , mobile , finance , travel , AD and so on. So I can not wait to work as a full-time worker.",
+        ],
+        [
+          'sentence' => "There are so many kinds of jobs in this company and I am interested in all of that. So I can not wait to work as a full-time worker.",
+        ],
+        [
+          'sentence' => "I am interested in Fintech and I want to talk with sempai belong to that company. So I will contact sempai who is working for and ask what I want to know about that company.",
+        ],
+        [
+          'sentence' => "I was interested in Fintech, but I am curious about travel at this points. So I will contact sempai who is working for that and ask what I want to know about that company.",
+        ],
+        [
+          'sentence' => "I was interested in EC, but I am curious about Mobile company at this points. So I will contact sempai who is working for that and ask what I want to know about that company.",
+        ],
+        [
+          'sentence' => "I am interested in Travel and Ad solutions. So I will have a lunch with a sempai who is working for to know about that company well.",
+        ],
+        [
+          'sentence' => "I am interested in various type of jobs and that is why I joined this company. I have many chances to work various type of jobs. So I can't wait working as a full-time worker.",
+        ],
+        [
+          'sentence' => "I could know how sempai coexist both a work life and a private life through talking with sempai. And I know that it is difficult for a person with wide interests to do that like me. So I have to think it over again.",
+        ],
+        [
+          'sentence' => "I have interests in various type of jobs and that is why I joined this company. I have many chances to work various type of jobs. So I can't wait working as a full-time worker.",
+        ],
+        [
+          'sentence' => "I am interested in working as a full-time worker and have a lot of connections with people not only inside of this company but also outside of the company.",
+        ],
+        [
+          'sentence' => "I am interested in doukis. There are loads of doukis in this room and lots of possibilities of getting a new knowledge from them. So I will run to talk with them aggressively.",
+        ],
+        [
+          'sentence' => "I am interested in working as a team because I can learn a lot of things from other members. So I will contact to them aggressively.",
+        ],
+        [
+          'sentence' => "Before I joined Rakuten, I did not have any interest in online shopping. But now I am very surprised the possibility of online shopping. Even if you are in home, you can buy anything you want. I think this can change the world.",
+        ],
+        [
+          'sentence' => "I am looking forward to meeting my douki everyday because my interest and their interest are same .",
+        ],
+       [
+          'sentence' => "I found out that every doukis have many interesting ways of thinking. I want to absorb from them a lot.",
+        ],
+         [
+          'sentence' => "I want to make friends who has a wide range of interests and want to absorb from them a lot.",
+        ],
+         [
+          'sentence' => "There a lot of choices I'm interested in  Rakuten, so I'm worry about what to do now or how to communicate with doukis.",
+        ],
+         [
+          'sentence' => "I think FutakoTamagawa is an interesting city that's a mix of the old and the new. I want to know this town a lot.",
+        ],
+         [
+          'sentence' => "I'm interested in every douki, so I want to get along well with them at any cost and absorb their nice thing .",
+        ],
+         [
+          'sentence' => "I want to communicate with GHR staff because they are respectful sempai and maybe same interest.",
+        ],
+         [
+          'sentence' => "I'm interested in getting various knowledge. So, this new grads' training is so valuable for me. I feel that I grow up everyday and I'm sure to achieve my goal.",
+        ],
+         [
+          'sentence' => "My doukis have a various abilities in many aspects. So I'm interesting in them and I want to expand my circle of friends and I want to know more  about my doukis.",
+        ],
+         [
+          'sentence' => "I'm interesting to grow up myself and I feel that I can grow up day by day. But I realize that I'm still weak. So I want to make effort more and more. ",
+        ],
+         [
+          'sentence' => "All of my doukis have a huge interest concerning today's training content. And I have interest it too. I understand today's content, and I want to review it in order to understand it more.",
+        ],
+         [
+          'sentence' => "I have a huge interest to my many doukis. The reason is that my doukis have a strong character. So I want to know more about them.",
+        ],
+         [
+          'sentence' => "The system of the training was very interesting and I feel that it is very grateful that we can choose the course which we would like to take.",
+        ],
+       [
+          'sentence' => " I found out that every doukis have many interesting ways of thinking. I respect them and I want to get along with them more.",
+        ],
+         [
+          'sentence' => "I found that my teammate has no interest to me. I felt sad so I decided to change myself.",
+        ],
+       
+        
         
  ]);
         
     }
 }
+
+

@@ -69,8 +69,29 @@ class NervousTableSeeder extends Seeder
         [
           'sentence' => "I'm nervous, because I can not tell if I will good relationship with my teammates. I think is important to make a chance to know each other for building a comfortable team. I would like to make an effort to promote an active discussion in my team.",
         ],
+        [
+          'sentence' => "Today's session was making me really nervous about whether we are doing the right way for this situation.",
+        ],
+         [
+          'sentence' => " I’m nervous but my group members are very kind so I am sure they will help me. I will do my best! ",
+        ],
+         [
+          'sentence' => "Of course I feel nervous about today's session, but I am also exciting to learn new skills.",
+        ],
+         [
+          'sentence' => "I was so nervous about today's training, because I was not good at it. Just like I thought, it was very difficult for me, but it was a good opportunity to make me a better business person. I will keep to try many things  for my growth  during this training.",
+        ],
+         [
+          'sentence' => "I was so nervous last night because I couldn't imagine I could work well in the future. Just as I thought, it was not easy for me, but it was a good opportunity to make me highly motivated.",
+        ],
+        [
+          'sentence' => "I am so nervous because I can not see the clear way of my future career. So I will make an appointment with sempai and ask him about this to think it over again.",
+        ],
 
- ]);
+]);
         
     }
 }
+
+
+

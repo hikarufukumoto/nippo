@@ -18,7 +18,7 @@ class Satisfied extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = rand(1,18);
+   $select = rand(1,50);
    $satisfied = DB::table('satisfied')->where('id',$select)->get();
 
     return $satisfied;

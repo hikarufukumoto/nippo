@@ -1,3 +1,4 @@
+
 <?php
 
 use Illuminate\Database\Seeder;
@@ -117,7 +118,6 @@ class HardTableSeeder extends Seeder
         [
           'sentence' => "Today I faced many difficulities during this training. I will try to think how I can overcome with these problems",
         ],
-        
         [
           'sentence' => "During this training, our group faced many difficult situations and we were able to overcome these problems because we worked as a one team. We will continue to work had to improve ourselves.",
         ],
@@ -140,7 +140,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It is hard to have a good discussion since everyone has various ideas. ",
         ],
         [
-          'sentence' => "Drawing a conclusion is always hard. Because we  have a different way of thinking .",
+         'sentence' => "Drawing a conclusion is always hard. Because we  have a different way of thinking .",
         ],
         [
           'sentence' => "Today's contents were difficult but I managed to understand them all.",
@@ -155,7 +155,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It is a little bit difficult for us to have one conclusion as a team.",
         ],
         [
-          'sentence' => "We faced several difficult situations today. So we must have a conversation tommorow to solve each of them.",
+          'sentence' => "We faced several difficult situations today. So we must have a conversation tomorrow to solve each of them.",
         ],
         [
           'sentence' => "It is so difficult to think logically and also say things logically.",
@@ -165,7 +165,8 @@ class HardTableSeeder extends Seeder
         ],
         
 
- ]);
+]);
         
     }
 }
+

@@ -147,7 +147,10 @@ class ImportantTableSeeder extends Seeder
         [
           'sentence' => "Since I felt a little bit sick today, I wasn't able to fullt concentrate. Now I learned the importance.",
         ],
- ]);
+]);
         
     }
 }
+
+
+
