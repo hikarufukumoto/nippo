@@ -14,7 +14,15 @@ class Why1TableSeeder extends Seeder
       DB::table('why1')->insert([
         
         [
-          'sentence' => "To make more friends.",
+          'sentence' => "To brush up my business skill.",
+        ],
+        
+        [
+          'sentence' => "To improve my business skill.",
+        ],
+        
+        [
+          'sentence' => "To grow up as a business person.",
         ],
         
 ]);

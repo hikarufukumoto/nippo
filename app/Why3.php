@@ -18,8 +18,8 @@ class Why3 extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select1 = 1;
-    $why3= DB::table('why3')->where('id',1)->get();
+    $select1 = rand(1,3);
+    $why3= DB::table('why3')->where('id',$select1)->get();
  
     return $why3;
     

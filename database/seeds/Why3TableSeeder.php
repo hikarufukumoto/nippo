@@ -14,7 +14,15 @@ class Why3TableSeeder extends Seeder
       DB::table('why3')->insert([
         
         [
-          'sentence' => "To get the newest knowledge.",
+          'sentence' => "To have a deeper relationship with doukis.",
+        ],
+        
+        [
+          'sentence' => "To Interact with　other doukis.",
+        ],
+        
+        [
+          'sentence' => "To know about doukis deeply.",
         ],
         
 ]);

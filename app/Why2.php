@@ -18,8 +18,8 @@ class Why2 extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select1 = 1;
-    $why2= DB::table('why2')->where('id',1)->get();
+   $select1 = rand(1,3);
+    $why2= DB::table('why2')->where('id',$select1)->get();
  
     return $why2;
     

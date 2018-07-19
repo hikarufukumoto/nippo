@@ -18,7 +18,7 @@ class Smartgoal extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select1 = 1;
+   $select1 = rand(1,24);
     $smartgoal= DB::table('smartgoal')->where('id',$select1)->get();
  
     return $smartgoal;
