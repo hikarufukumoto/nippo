@@ -25,6 +25,12 @@ class DatabaseSeeder extends Seeder
           ImpressedTableSeeder::class,
           ImportantTableSeeder::class,
           SpecialTableSeeder::class,
+          SmartgoalTableSeeder::class,
+          Smartgoal2TableSeeder::class,
+          Smartgoal3TableSeeder::class,
+          Why1TableSeeder::class,
+          Why2TableSeeder::class,
+          Why3TableSeeder::class,
         ]);
     }
 }

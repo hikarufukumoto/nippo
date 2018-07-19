@@ -84,20 +84,20 @@
                          @endforeach
                          @foreach($special as $m)
                           <span class="result">{{$m->sentence}}</span>
-                         @endforeach
+                         @endforeach<br><br>
                          
                          
                          
-                         <div class="smart1">SMART Goal 1: 
-          <br>	Why→</br>
+          <div class="smart1">SMART Goal 1: @foreach($smartgoal as $n){{$n->sentence}}@endforeach
+          <br>➣	Why→ @foreach($why1 as $p){{$p->sentence}}@endforeach</br>
           </div>
 
-          <div class="smart2">SMART Goal 2: 
-          <br>	Why→</br>
+          <div class="smart2">SMART Goal 2: @foreach($smartgoal2 as $l){{$l->sentence}}@endforeach
+          <br>➣	Why→ @foreach($why2 as $q){{$q->sentence}}@endforeach</br>
           </div>
  
-          <div class="smart3">SMART Goal 3: 
-          <br>	Why→</br>
+          <div class="smart3">SMART Goal 3: @foreach($smartgoal3 as $o){{$o->sentence}}@endforeach
+          <br>➣ Why→ @foreach($why3 as $r){{$r->sentence}}@endforeach</br>
           </div>
                          
                          </div>

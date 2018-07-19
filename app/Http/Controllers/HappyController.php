@@ -15,6 +15,12 @@ use App\Nervous;
 use App\Impressed;
 use App\Important;
 use App\Special;
+use App\Smartgoal;
+use App\Smartgoal2;
+use App\Smartgoal3;
+use App\Why1;
+use App\Why2;
+use App\Why3;
 
 use Request;
 
@@ -47,6 +53,12 @@ class HappyController extends Controller
       "impressed"=>[],
       "important"=>[],
       "special"=>[],
+      "smartgoal"=>[],
+      "smartgoal2"=>[],
+      "smartgoal3"=>[],
+      "why1"=>[],
+      "why2"=>[],
+      "why3"=>[],
       ];
     
     
@@ -172,6 +184,43 @@ class HappyController extends Controller
     
     
     $data['name'] = Request::get('shiba');
+    
+    if(1==1){
+    $md = new Smartgoal;
+    $smartgoal= $md ->getData();
+    $data['smartgoal'] =$smartgoal;
+    }
+    
+     if(1==1){
+    $md = new Smartgoal2;
+    $smartgoal2= $md ->getData();
+    $data['smartgoal2'] =$smartgoal2;
+    }
+    
+     if(1==1){
+    $md = new Smartgoal3;
+    $smartgoal3= $md ->getData();
+    $data['smartgoal3'] =$smartgoal3;
+    }
+    
+     if(1==1){
+    
+    $md = new Why1;
+    $why1= $md ->getData();
+    $data['why1'] =$why1;
+    }
+    
+     if(1==1){
+    $md = new Why2;
+    $why2= $md ->getData();
+    $data['why2'] =$why2;
+    }
+    
+     if(1==1){
+    $md = new Why3;
+    $why3= $md ->getData();
+    $data['why3'] =$why3;
+    }
     
     // ビューを返す
     return view('/result',$data);
