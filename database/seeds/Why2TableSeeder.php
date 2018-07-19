@@ -22,7 +22,7 @@ class Why2TableSeeder extends Seeder
         ],
         
         [
-          'sentence' => "To have a chance to study English.",
+          'sentence' => "To make a chance to study English.",
         ],
         
 ]);

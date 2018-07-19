@@ -36,7 +36,6 @@
                 
                     <!-- Left Side Of Navbar -->
                     <div class="nav navbar-nav">
-                        
                     </div>
 
                     <!-- Right Side Of Navbar -->
