@@ -78,8 +78,8 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="text-faded mb-5">Start NIPPO can help you write better daily report! Just download your template and start going!</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#services">Find Out More</a>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="/home">Login</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="/home">Create NIPPO</a>
           </div>
         </div>
       </div>

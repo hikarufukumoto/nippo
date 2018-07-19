@@ -12,17 +12,17 @@ class SmartgoalTableSeeder extends Seeder
     public function run()
     {
       DB::table('smartgoal')->insert([
-        [
+[
           'sentence' => "Learn Logical Thinking.",
         ],
          [
-          'sentence' => "Learning logical thinking. ",
+          'sentence' => "Learning logical thinking.",
         ],
         [
-          'sentence' => "Think logically, Talk logically. ",
+          'sentence' => "Think logically, Talk logically.",
         ],
         [
-          'sentence' => "Practice business manner by myself. ",
+          'sentence' => "Practice business manner by myself.",
         ],
         [
           'sentence' => "Read some books about mind-set or skill-set within this week.",
@@ -43,7 +43,7 @@ class SmartgoalTableSeeder extends Seeder
           'sentence' => "Read 5 pages Nikkei about economy in the morning.",
         ],
         [
-          'sentence' => "Pick up a news related to IT and share it with my group. ",
+          'sentence' => "Pick up a news related to IT and share it with my group.",
         ],
         [
           'sentence' => "Research some IT articles with twitter.",
@@ -52,10 +52,10 @@ class SmartgoalTableSeeder extends Seeder
           'sentence' => "Read 3article of Newspicks per day.",
         ],
         [
-          'sentence' => "Remember the Windows shortcuts .",
+          'sentence' => "Remember the Windows shortcut key.",
         ],
         [
-          'sentence' => "Practice blind touch by  5pm.",
+          'sentence' => "Practice blind touch by 5pm.",
         ],
         [
           'sentence' => "Remember 1 new shortcut key every day.",
@@ -73,10 +73,10 @@ class SmartgoalTableSeeder extends Seeder
           'sentence' => "Practice blind touch and aim for the 100 wpm before and of this month.",
         ],
         [
-          'sentence' => "Finish 7 typing lessons in typing club by next business day. ",
+          'sentence' => "Finish 7 typing lessons in typing club by next business day.",
         ],
         [
-          'sentence' => "Learn 3 new short-cut keys every day.",
+          'sentence' => "Learn 3 new short-cut keys everyday.",
         ],
         [
           'sentence' => "Improve my blind touch score until the end of this month.",
@@ -84,6 +84,8 @@ class SmartgoalTableSeeder extends Seeder
         [
           'sentence' => "Read 1 chapter of PHP book before tomorrow morning (before start working).",
         ],
+        
+
         
  ]);
         

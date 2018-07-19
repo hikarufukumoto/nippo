@@ -13,31 +13,31 @@ class Smartgoal3TableSeeder extends Seeder
     {
       DB::table('smartgoal3')->insert([
         [
-          'sentence' => "Talk to 2 new doukis. ",
+          'sentence' => "Talk to 2 new doukis.",
         ],
         [
           'sentence' => "Make sure to say Hi to everyone around me.",
         ],
         [
-          'sentence' => "Share the thoughts with my doukis. ",
+          'sentence' => "Share the thoughts with my doukis.",
         ],
         [
-          'sentence' => "Exchange instagram 3 doukis.",
+          'sentence' => "Follow instagram accounts of 3 doukis.",
         ],
         [
-          'sentence' => "To eat breakfast with more than 3 doukis. ",
+          'sentence' => "Eat breakfast with more than 3 doukis.",
         ],
         [
-          'sentence' => "Have a conversation with 4 new doukis from a different team. ",
+          'sentence' => "Have a conversation with 4 new doukis from a different team.",
         ],
         [
-          'sentence' => "To talk with more than 3 doukis about Our future career.",
+          'sentence' => "Talk with more than 3 doukis about our future career.",
         ],
          [
-          'sentence' => "Read 100 Daily Reports from my doukis. ",
+          'sentence' => "Read 15 Daily Reports from my doukis.",
         ],
         [
-          'sentence' => "Goal:Read 10 Daily Reports from my doukis by tomorrow 17PM.",
+          'sentence' => "Read 10 Daily Reports from my doukis by tomorrow 5 PM.",
         ],
 ]);
         

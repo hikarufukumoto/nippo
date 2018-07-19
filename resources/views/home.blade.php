@@ -44,11 +44,12 @@
     
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <div class="intro"><label for="whatwedid"></label>
-            Today we worked on <input type="text" id=dounyu name="shiba" "value="" placeholder="ex)Coding, Hackathon">.
-            </div>
+            <label for="whatwedid"></label>
+            
+            <span class="intro1">Today we worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="今日やったことを入力して下さい">.</span>
+            
         </div>
-        <div class="text1">Please choose at least 3 from followings. </div>
+        <div class="text1">Please choose at least 5 from followings. </div>
         <div class="choose">
             
                     <div class="positive">

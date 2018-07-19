@@ -13,16 +13,16 @@ class Smartgoal2TableSeeder extends Seeder
     {
       DB::table('smartgoal2')->insert([
         [
-          'sentence' => "Watch 3 Ted Talks by tomorrow 9am.",
+          'sentence' => "Watch 3 Ted Talks by tomorrow’s 9am.",
         ],
         [
-          'sentence' => "Watch one program of TED while commuting and speak up the all script by the end of the day. ",
+          'sentence' => "Watch one video of TED while commuting and speak up the all script by the end of the day.",
         ],
         [
           'sentence' => "Memorize 10 new English words which I couldn’t understand in the lectures by the end of this month.",
         ],
         [
-          'sentence' => "Study English to improve my English skill.",
+          'sentence' => "Study English very hard to improve my English.",
         ],
         [
           'sentence' => "Watch one short movie in English while lunch break.",
@@ -34,7 +34,7 @@ class Smartgoal2TableSeeder extends Seeder
           'sentence' => "I remember 10 English words before going to bed every night.",
         ],
         [
-          'sentence' => "To memorize 200 new English words which I can’t understand in the lectures by the end of this month.",
+          'sentence' => "Memorize 200 new English words which I can’t understand in the lectures by the end of this month.",
         ],
         [
           'sentence' => "Practice to read and listen to learn business English using RNN.",
@@ -46,22 +46,22 @@ class Smartgoal2TableSeeder extends Seeder
           'sentence' => "Memorize 20 vocabularies of the text book for TOEIC test.",
         ],
         [
-          'sentence' => "Read three NHK world news before I come.",
+          'sentence' => "Read three NHK world news before I come here.",
         ],
         [
-          'sentence' => "Listen English carefully and repeat it in my heart.",
+          'sentence' => "Listen English carefully in BBC and repeat it in my heart.",
         ],
         [
           'sentence' => "Reading 1 other daily reports by native speakers and get 10 new phrases.",
         ],
         [
-          'sentence' => "Read one article about business(IT, Rakuten or whatever), and make a 30-60 seconds presentation in English to my team member before the morning assembly.",
+          'sentence' => "Read one article about business (IT, Rakuten or whatever), and make a 30-60 seconds presentation in English to my team member before the morning assembly.",
         ],
         [
           'sentence' => "Speak at least twice during lecture questions.",
         ],
         [
-          'sentence' => "Watch the Ted I choose during commuting.",
+          'sentence' => "Watch the TED I choose during commuting.",
         ],
         [
           'sentence' => "I will find and read 2 articles about Technology on RAP by 5 pm.",
