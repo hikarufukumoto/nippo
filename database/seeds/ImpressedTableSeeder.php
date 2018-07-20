@@ -61,7 +61,7 @@ class ImpressedTableSeeder extends Seeder
           'sentence' => "My impression toward my teammates changed. Because I have thought that our teammates are so clever but they don't have a enthusiasm, but I noticed that they have a hot soul.  I respected them.",
         ],
         [
-          'sentence' => "I was impressed by our teammates, because they have a diligent attitude. So I was influenced by them, and I noticed that I need to study more concerning this new grads' training.",
+          'sentence' => "I was impressed by our teammates, because they have a diligent attitude. So I was influenced by them, and I noticed that I need to study more concerning this training.",
         ],
         [
           'sentence' => "Our team were impressed by team of the neighbor. Because they have a good concentration more than our team. We want to emulate them.",
@@ -76,10 +76,10 @@ class ImpressedTableSeeder extends Seeder
           'sentence' => "I was impressed some of my doukis. The reason was  that they helped me exhaustively and painstakingly concerning today's training contents. I could master it, thanks to them.",
         ],
         [
-          'sentence' => "My impression toward my doukis were so excellent, when I joined the member of Rakutenian. But now, I respect them more than those days. I love all of my doukis.",
+          'sentence' => "My impression toward my doukis were so excellent, when I joined this company. But now, I respect them more than those days. I love all of my doukis.",
         ],
         [
-          'sentence' => "I was impressed by my growth during this new grads' training. Especially, I thought that my English skill grow up more than the time that I joined a member of Rakutenian. I want to keep studying more.",
+          'sentence' => "I was impressed by my growth during this training. Especially, I thought my English skills grew up more since I joined this company. I will keep studying more.",
         ],
         [
           'sentence' => "I was so impressed by my team because they have a high motivation for reviewing what they learned. And they told me that reviewing was so good for study and you should do it. So I will review what I learned today at this point.",

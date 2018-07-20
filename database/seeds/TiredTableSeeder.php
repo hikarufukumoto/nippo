@@ -73,7 +73,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "Since I have been very tired this week, I should go to bed early, get enough sleep, and stay healthy.",
         ],
         [
-          'sentence' => "I am so tired because I thought about my coding very carefully.",
+          'sentence' => "I am so tired because I was thinking about coding very carefully.",
         ],
         [
           'sentence' => "Every member looked very tired at the end of the day.",
@@ -151,7 +151,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "Since I slept only for an hour last night, I was a little tired to be honest.",
         ],
         [
-          'sentence' => "Though I am tired and motivation becomes less, I would like to recharge it and keep active from tomorrow too.",
+          'sentence' => "Because I got tired and lost motivation, I will recharge it and keep active from tomorrow.",
         ],
         [
           'sentence' => "Coding makes me so tired. I think that means I should learn more about it.",

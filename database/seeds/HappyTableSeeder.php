@@ -13,19 +13,19 @@ class HappyTableSeeder extends Seeder
     {
       DB::table('happy')->insert([
         [
-          'sentence' => "I was very happy when some friends came to talk to me during training. It was good chance to know about each other.",
+          'sentence' => "I was very happy when some friends came to talk to me during training. It was a good chance to know about each other.",
         ],
         [
           'sentence' => "I am so happy that each of us worked so seriously and took some rest efficiently.",
         ],
         [
-          'sentence' => "We could solve our team problem today. I was so happy to see my team member's smile. ",
+          'sentence' => "I was proud of my team because were able to solve our problem today. I was so happy to see my team member's smile. ",
         ],
         [
           'sentence' => "Because we were stuck from yesterday, we felt happy when we were able to solve our problems.",
         ],
         [
-          'sentence' => "We could overcome a difficulty by cooperating with each other. I am happy to be able to join and work as a good team.",
+          'sentence' => "We were able to overcome a difficulty by cooperating with each other. I am happy to be able to join and work as a good team.",
         ],
         [
           'sentence' => "I was so happy that I was rewarded by other group members. I would like to keep studying to contribute to our team.",
@@ -70,7 +70,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "Today, I had lunch with sempai. I am so happy to have a chance to talk with sempai. I can learn lots of things from him and I will review what I learned.",
         ],
         [
-          'sentence' => "I was so happy to get an opportunity to ask sempai about Rakuten. I can know that how I build my own career in this company.",
+          'sentence' => "I was so happy to get an opportunity to ask sempai about Rakuten. Now I know how to build my own career in this company.",
         ],
         [
           'sentence' => "Today, my teammate looked happy. Of course someone's happy is so important, but also we need to make メリハリ during the training.",
@@ -91,7 +91,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => " I am pleased that our team are progressing smoothly by cooperating well.",
         ],
         [
-          'sentence' => "I am so happy that I could overcome some of our problems today. I thought that it was important to cooperate with our team members for finding better solution.",
+          'sentence' => "I am so happy that we were able to overcome some of our problems today. I thought that it was important to cooperate with our team members for finding better solution.",
         ],
         [
           'sentence' => "I am very happy that other team members helped me to solve my problems.",
@@ -127,7 +127,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was so happy today, because I could achieve my goal. I would like to keep working hard and set new goals for my growth as a business person.",
         ],
         [
-          'sentence' => "I was very happy, because I was able to achieve today's goal. It was not easy for me, but I could overcome it by making efforts.",
+          'sentence' => "I was very happy, because I was able to achieve today's goal. It was not easy for me, but I was able to overcome it by making efforts.",
         ],
         [
           'sentence' => "I was so happy today because my sworn douki spoke in front of us. I was influenced by him and I decided to speech in front of our doukis next time.",

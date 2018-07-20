@@ -47,7 +47,7 @@
             <label for="whatwedid"></label>
             
             <span class="intro1">
-                ① Today we worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="ex)PHP, coding etc.">.</span>
+                ① Today I worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="ex)PHP, coding etc.">.</span>
             <br><br>
         </div>
         <div class="text1"><b>② Please choose at least 5 feelings from followings.</b></div>

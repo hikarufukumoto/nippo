@@ -55,7 +55,7 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "Through today's training, my interest towards Rakuten became larger and larger. I will continue preparing for the department assignment interview.",
         ],
          [
-          'sentence' => "I'm interested in club activity which sempai told us. It will be a good chance for me to join these clubs and make connections with other sempais.",
+          'sentence' => "I'm interested in club activity which sempai told me. It will be a good chance for me to join these clubs and make connections with other sempais.",
         ],
          [
           'sentence' => "I noticed that many doukis have a great interest in department assignment, so I want to talk to them and exchange our opinions.",
@@ -64,13 +64,13 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "I noticed that creating new systems are very interesting. I want to study more about Shikumika in this company.",
         ],
          [
-          'sentence' => "I want to know and share dokui's interests and get along well with them. It will be very important for us to create good relationships and also to use that connection for jobs.",
+          'sentence' => "I want to know and share doukis' interests and get along well with them. It will be very important for us to create good relationships and also to use that connection for jobs.",
         ],
          [
           'sentence' => "I'm interested in improving my English skill, so I must study more and more. I need to take a more time for studying English. ",
         ],
          [
-          'sentence' => "Recently, I'm interested in many doukis, because every doukis have overwhelming identities that I haven't seen before. I want to increase the opportunity to talk with my doukis to know them more.",
+          'sentence' => "Recently, I'm interested in many doukis, because every douki have overwhelming identities that I haven't seen before. I want to increase the opportunity to talk with my doukis to know them more.",
         ],
          [
           'sentence' => "It is hard but also interesting to think about our future career. So, I wish I can have conversations about career in my home group.",
@@ -125,9 +125,6 @@ class InterestingTableSeeder extends Seeder
         ],
          [
           'sentence' => "I’m interested in everything and there are a lot of things that I want to do in Rakuten. So, I’m very confused about how to find what I want to do best.",
-        ],
-         [
-          'sentence' => "I think FutakoTamagawa is an interesting city that's a mix of the old and the new. I want to know this town a lot.",
         ],
          [
           'sentence' => "I'm interested in every douki, so I want to get along well with them at any cost and absorb their nice things.",

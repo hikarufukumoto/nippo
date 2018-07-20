@@ -18,7 +18,7 @@ class Why3TableSeeder extends Seeder
         ],
         
         [
-          'sentence' => "To Interact with other doukis.",
+          'sentence' => "To interact with other doukis.",
         ],
         
         [

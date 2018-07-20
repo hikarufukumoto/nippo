@@ -145,7 +145,7 @@ class ImportantTableSeeder extends Seeder
           'sentence' => "It is very important to know our actual skills of our group members to raise our productivity. ",
         ],
         [
-          'sentence' => "Since I felt a little bit sick today, I wasn't able to fullt concentrate. Now I learned the importance.",
+          'sentence' => "Since I felt a little bit sick today, I wasn't able to fully concentrate. Now I learned the importance of our health.",
         ],
 ]);
         

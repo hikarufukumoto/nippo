@@ -22,7 +22,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "I am a little bit nervous but I want to work hard and challenge everything during this training.",
         ],
         [
-          'sentence' => "When I have a presentation, I get nervous. I will practice again and again to overcome it. ",
+          'sentence' => "I get nervous when I have to do a presentation. I will practice again and again to overcome it.",
         ],
         [
           'sentence' => "I was nervous today. But now I know this feeling was very valuable experience. I would like to absorb many knowledge and skill as a business person to encourage my doukis during this training.",
@@ -40,7 +40,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "I was very nervous before expressing my opinion, but I thought that my idea could promote active discussion in my team.",
         ],
         [
-          'sentence' => "I was a little bit nervous about today's training, but I understood what I should do. I am going to try to improve my skill since today.",
+          'sentence' => "I was a little bit nervous about today's training, but I understood what I should do. I am going to try to improve my skill from today.",
         ],
         [
           'sentence' => "I'm nervous about my understanding towards this training. I would like to review it by myself after I got home.",

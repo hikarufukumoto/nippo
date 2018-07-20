@@ -58,16 +58,13 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I am so excited during this training because our team had a discussion and came to conclusion. I will try to have a good discussion.",
         ],
         [
-          'sentence' => "Today, I was so excited to have a discussion related to Rakuten. I learned about this company and I could know how I build my career plan, so I will keep this feeling in my mind.",
+          'sentence' => "Today, I was so excited to have a discussion related to Rakuten. I learned about this company and I learned how I could build my career plan. I will keep what I have learned today in my mind.",
         ],
         [
           'sentence' => "I was excited to think about my career in Rakuten. Because there are so many kind of jobs and so I can work as EC and Travel consultant in the same company. I am looking forward to working as a full-time worker.",
         ],
         [
           'sentence' => "I was so excited about today's training, because I could know about Rakuten deeply and so I might have a clear vision in my future career.",
-        ],
-        [
-          'sentence' => " shibade-su,desu is so excited every day shibade-su,desu shibade-su,desu shibade-su,desu shibade-su,desu shibade-su,desu. Its excite can defeat many shibade-su,desu problems.",
         ],
         [
           'sentence' => "We had a discussion today. A discussion about our feeling to this training was very excited and it was very constructive. So, I hope we can have this opportunity next week as well.",
@@ -85,9 +82,6 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "Our teammates were excited about today's group work. Because we could learn from each other and could share our thought. It was good for us to share our thought at the end of the day which can rap today's study up.",
         ],
         [
-          'sentence' => "I felt excited when I think how we will be after this training. Because there are a lot of things to learn, but I am sure and promise to be able to grow up.",
-        ],
-        [
           'sentence' => "I am really excited when I think I can learn a lot of things every day for upcoming 4 months. So, I will have to keep doing my best for maximizing this training.",
         ],
         [
@@ -97,7 +91,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "Recently, I'm so exciting, because I encounter a lot of obstacles. If I overcome that, I think I can grow up more and more. So, I will try to solve that aggressively.",
         ],
         [
-          'sentence' => "There are a lot of excited doukis in this room because they have different background which I have never experienced. So, I can learn a lot of things from them.",
+          'sentence' => "There are a lot of interesting doukis from different background in this room. I have never experienced such a thing. I am excited to learn a lot of things from them.",
         ],
         [
           'sentence' => "I was so excited that I couldn't sleep last night because of special event. To tell the truth, I got a partner. It was precious time.",
@@ -130,19 +124,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I am so excited about this training because there are a lot of things to learn in this training and at the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after going home.",
         ],
         [
-          'sentence' => "I am very excited about doukis. Because I think I can learn a lot of things from them who have different background. So, I will speak to them aggressively.",
-        ],
-        [
-          'sentence' => "I am very excited about doukis, because I think I can learn a lot of things from them who have different background. So, I will speak to them aggressively.",
-        ],
-        [
-          'sentence' => "I am so excited about doukis. Because I think I can learn a lot of things from them who have different background. So, I will speak to them aggressively.",
-        ],
-        [
-          'sentence' => "I am extremely excited about doukis because I think I can learn a lot of things from them who have different background. So, I will speak to them aggressively.",
-        ],
-        [
-          'sentence' => "I am extremely excited about doukis and so I will speak to them aggressively. Because I think I can learn a lot of things from them who have different background.",
+          'sentence' => "I am very excited about doukis. Because I think I can learn a lot of things from people who have different background. I will speak to them aggressively to earn differernt points of views.",
         ],
         [
           'sentence' => "I am so excited about this training because I can learn a lot of new things and I think I can grow up from learning new things. So, I want to keep having this mind.",

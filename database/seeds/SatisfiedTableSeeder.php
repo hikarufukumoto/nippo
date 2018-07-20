@@ -117,7 +117,7 @@ class SatisfiedTableSeeder extends Seeder
           'sentence' => "I would like to meet to discuss with my team mates about our directions. We were satisfied with the result. ",
         ],
          [
-          'sentence' => "All of us have worked hard all today. I was satisfied with myself for working so hard.",
+          'sentence' => "All of us have worked hard today. I was satisfied with myself for working so hard.",
         ],
          [
           'sentence' => "I was satisfied with today's session because I could take the initiative. I was sure that I had a perfect leadership.",
@@ -148,9 +148,6 @@ class SatisfiedTableSeeder extends Seeder
         ],
         [
           'sentence' => "I was satisfied with my group's teamwork. However hard contents are hard, they always helped me. They compensate my lack of ability.  I appreciate them.",
-        ],
-        [
-          'sentence' => "I was satisfied with my teammate. They always looked up me. To tell the truth, I thought that I am the perfect human, so this environment is comfortable.",
         ],
         [
           'sentence' => "I was satisfied with this company. To tell the truth, I look down on this company compared to my college friends. I fully believed status or background but nowadays, during new grad's training, my feeling shifted.",

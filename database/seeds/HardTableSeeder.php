@@ -85,7 +85,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It was so hard to discuss several topics with our team.",
         ],
         [
-          'sentence' => "I could know that it is sometimes hard to communicate with others.",
+          'sentence' => "I found out that it is sometimes hard to communicate with others. I will try to find some ways to solve this problem",
         ],
         [
           'sentence' => "Today was a hard day. So, I am very tired right now.",

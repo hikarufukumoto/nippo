@@ -70,7 +70,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "All of my teammates are highly motivated. I'm looking forward to meeting them everyday and every times. I spend so precious time.",
         ],
         [
-          'sentence' => "I'm looking forward to participating in special event like Keep Smiling Day and Yukata-Day etc... I think it is a good chance to meet new people who belong to another company.",
+          'sentence' => "I'm looking forward to participating in special event like Keep Smiling Day and Yukata-Day etc... I think it is a good chance to meet new people who belong to another department.",
         ],
         [
           'sentence' => "I'm looking forward to eating a lunch with doukis. Because they have a different point of view to think and I can learn a lot of things from them.",
@@ -115,7 +115,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I'm looking forward to talking douki who I hadn't talk yet. I want doukis to know me.",
         ],
         [
-          'sentence' => "My teammates are looking forward to get knowledge deeper and deeper and I am also looking forward to doing by cooperating with each other.",
+          'sentence' => "My teammates are looking forward to getting knowledge deeper and deeper and I am also looking forward to doing by cooperating with each other.",
         ],
         [
           'sentence' => "I am looking forward to hearing the actual voices of the customers in workplace. In order to do that, I must study hard.",

@@ -74,9 +74,6 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "I am anxious that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
         ],
         [
-          'sentence' => "I am afraid that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
-        ],
-        [
           'sentence' => "I am worried about this training because there are a lot of things to learn in this training. I am not sure I can understand fully, but I have to keep doing my best.",
         ],
         [
@@ -110,10 +107,10 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "I am afraid of this training. Because I am not good at talking with a stranger which means not a friend. So it is a good chance for me to develop myself to be friendly person.",
         ],
         [
-          'sentence' => "I am anxious about the way of my life. I am not clever and so I am not sure I can manage both jobs and private things at the same time. I will ask sempais about this and I hope I can get some advices from them.",
+          'sentence' => "I am anxious about my life. Since I don't have much confident, I am not sure if I can manage both job and private at the same time. I will ask sempais about this and I hope I can get some advices from them.",
         ],
         [
-          'sentence' => "I am worried about the way of my life. I am not clever and so I am not sure I can manage both jobs and private things at the same time. I will ask sempais about this and I hope I can get some advices from them.",
+          'sentence' => "I am worried about my life. Since I don't have much confident, I am not sure if I can manage both job and private at the same time. I will ask sempais about this and I hope I can get some advices from them.",
         ],
         [
           'sentence' => "I am worried about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for Fintech, ask him about his career plan and I will use that for reference.",
@@ -135,9 +132,6 @@ class WorriedTableSeeder extends Seeder
         ],
         [
           'sentence' => "I am anxious about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for EC, ask him about his career plan and I will use that for reference.",
-        ],
-        [
-          'sentence' => "I am afraid that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely, but I will keep doing my best for myself.",
         ],
         [
           'sentence' => "I am anxious that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely, but I will keep doing my best for myself.",

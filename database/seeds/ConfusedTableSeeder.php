@@ -113,10 +113,10 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I had a lot to discuss with my team mates and I’m a little bit confused but I don’t stop thinking and trying to make a good one.",
         ],
          [
-          'sentence' => "I’ve learned a lot of skills, so I am completely confused today. But I never give up. I want to continue to endless effort.",
+          'sentence' => "I’ve learned a lot of skills, so I am completely confused today. But I will never give up. I want to make efforts continuously.",
         ],
          [
-          'sentence' => "I am totally confused because today's task was very difficult to understand but I want to continue to endless effort.",
+          'sentence' => "I am totally confused because today's task was very difficult to understand. I will try to make efforts continuously.",
         ],
          [
           'sentence' => "I also need to imagine what I need, and what I want to solve for my project about making solutions. It was a bit confused on me, so I was very serious to make a new plan.",
