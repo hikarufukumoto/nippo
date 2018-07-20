@@ -145,9 +145,6 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am pleased to present the results of my challenge. I have started to pay more attention to my doukis since last week. I talked with new doukis, and I could have a good relationship with them.",
         ],
         [
-          'sentence' => "I was very happy that our team could have a great relationship with each other. The reason was that we haveメリハリ during the daily new grads training. We want to keep it.",
-        ],
-        [
           'sentence' => "Today, I encountered difficult obstacles. I think that it is very hard, but it will be a good chance to grow up as a business person. So, I want to make a big effort.",
         ],
         [
