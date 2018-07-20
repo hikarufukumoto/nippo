@@ -46,14 +46,15 @@
         <div class="col-md-8 col-md-offset-2">
             <label for="whatwedid"></label>
             
-            <span class="intro1">Today we worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="今日やったことを入力して下さい">.</span>
-            
+            <span class="intro1">
+                ① Today we worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="ex)PHP, coding etc.">.</span>
+            <br><br>
         </div>
-        <div class="text1">Please choose at least 5 from followings. </div>
+        <div class="text1"><b>② Please choose at least 5 feelings from followings.</b></div>
+        <section id="section-1" class="section">
         <div class="choose">
-            
+        
                     <div class="positive">
-                        
                         <input type="checkbox" name="happy" value="1" id="happy"> 
                         <label for="happy" class="label"><div class="text">Happy</div></label>
                         <input type="checkbox" name="interesting" value="2" id="interesting">
@@ -90,10 +91,10 @@
                         <label for="special" class="label"><div class="text">Special</div></label>
                     </div>
                     </div>
-                    <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
+                   <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
         </div>
     </div>
- 
+ <a href="#"><span></span>Scroll</a>
     
     </form>
 </div>

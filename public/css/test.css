@@ -11,7 +11,7 @@
     float:left;
     margin-top:30px;
     color: #C0C0C0;
-    font-size: 15pt;
+    font-size: 20pt;
     color: white;
 }
 
@@ -114,6 +114,9 @@ input[type=checkbox] {
 	display: none; 	/* チェックボックスを非表示にする */
 }
 
+
+
+
 .label {
     background: #f05f40;
 	display: block;		/* ブロックレベル要素化する */ 
@@ -202,7 +205,7 @@ input#submit_button {
 
 .btnback{
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
-    margin: 0 auto;
+    margin: auto;
     background: white;
 	display: block;		/* ブロックレベル要素化する */ 	
 	margin: 5px;		/* ラベル外側の余白を指定する */
@@ -217,12 +220,53 @@ input#submit_button {
 	border: 2px solid black;/* ラベルの境界線を実線で指定する */
 	border-radius: 5px;	
 	font-size: 30px;
-	position:absolute; 
+	position:relative; 
 	left:67.5%; 
-	top:65%;
 }
 
 .row {
     padding-top: 50px;
     
+}
+
+
+a {
+  padding-top: 60px;
+}
+a span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb 2s infinite;
+  animation: sdb 2s infinite;
+  box-sizing: border-box;
+}
+@-webkit-keyframes sdb {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    -webkit-transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+}
+@keyframes sdb {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    transform: rotate(-45deg) translate(0, 0);
+  }
 }

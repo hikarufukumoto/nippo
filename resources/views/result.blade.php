@@ -41,8 +41,9 @@
 <div class="container1">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
+                      
             
-                        <div class="workonon">Today, we worked on {{ $name }}.
+                        <div class="workonon">■Thoughts on Today■<br>Today, we worked on {{ $name }}.
                         
                         
                         
@@ -87,6 +88,7 @@
                          @endforeach<br><br>
                          
                          
+          ■Next Business Day's Goals■<br>
                          
           <div class="smart1">SMART Goal 1: @foreach($smartgoal as $n){{$n->sentence}}@endforeach
           <br>➣	Why→ @foreach($why1 as $p){{$p->sentence}}@endforeach</br>

@@ -13,28 +13,28 @@ class TiredTableSeeder extends Seeder
     {
       DB::table('tired')->insert([
         [
-          'sentence' => "was tired and sleepy today so I will go to bed earlier tonight and get enough rest.",
+          'sentence' => "I was tired to solve our problem today. It was very hard for me, but it was good opportunity to learn how to work as a business person. I will go to bed early for tomorrow.",
         ],
         [
-          'sentence' => "I was so tired because I concentrated on coding very much.",
+          'sentence' => "I was so tired because I concentrated to training very much. ",
         ],
         [
-          'sentence' => "It seemed that our team members looked very tired.",
+          'sentence' => "Our team members looked very tired today. We are going to think how to take a rest efficiently.",
         ],
         [
-          'sentence' => "Today, I faced a lot of errors during coding trainig which made me tired, but my teammates helped me kindly.",
+          'sentence' => "Today, I faced a lot of errors during coding training which made me tired, but my teammates helped me kindly.",
         ],
         [
-          'sentence' => "I was extremely tired today, not physically but mentally.",
+          'sentence' => "I was so tired to solve our problem today, but it was a good opportunity to cooperate with each other.",
         ],
         [
           'sentence' => "I was so tired because I managed to keep deep concentration towards coding and learned a lot of things.",
         ],
         [
-          'sentence' => "We are going to handle  a lot of tasks tomorrow. Since I am so tired today , I have to take a good rest after going home.",
+          'sentence' => "We are going to handle a lot of tasks tomorrow. Since I am so tired today, I should take a good rest after going home.",
         ],
         [
-          'sentence' => "I found out that there are relationship between tiredness and the amount of conversation in group.",
+          'sentence' => "I found out that there is relationship between tiredness and the amount of conversation in group.",
         ],
         [
           'sentence' => "My eyes are tired from using the computer for so long. I am going to refresh my eyes today.",
@@ -43,22 +43,22 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I felt that everyone was tired today and there was an intense atmosphere.",
         ],
         [
-          'sentence' => "It was extremely hard for us  to find errors, so we were extremely tired.",
+          'sentence' => "It was extremely hard for us to find errors, so we were extremely tired.",
         ],
         [
           'sentence' => "I was so tired because I was able to keep deep concentration and learned a lot of things.",
         ],
         [
-          'sentence' => "I was really tired because of catching a cold and training coding very hard. I’ll get enough rest.",
+          'sentence' => "I was really tired because of catching a cold and very hard training. I’ll get enough rest.",
         ],
         [
-          'sentence' => "I was tired in the morning but I recoverd from afternoon.",
+          'sentence' => "I was tired in the morning but I recovered from afternoon.",
         ],
         [
-          'sentence' => "As every members looked tired today, I will manage some time to take a break in order not to make them sick.",
+          'sentence' => "As every member looked tired today, I will manage some time to take a break in order not to make them sick.",
         ],
         [
-          'sentence' => "Since I feel so tired,  I am going to take a break relaxing after back home.",
+          'sentence' => "Since I feel so tired, I am going to take a break relaxing after back home.",
         ],
         [
           'sentence' => "I have learned many things today and my brain is now really tired.",
@@ -76,52 +76,52 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I am so tired because I thought about my coding very carefully.",
         ],
         [
-          'sentence' => "Every members looked very tired at the end of the day.",
+          'sentence' => "Every member looked very tired at the end of the day.",
         ],
         [
-          'sentence' => "I am very tired of typing, looking at the screen and thinking.",
+          'sentence' => "I am very tired of typing. I would like to practice blind touch to improve my PC skill. ",
         ],
         [
-          'sentence' => "I think my face looks so tired. But I’m so happy about this which I can solve problem by myself.",
+          'sentence' => "I think my face looks so tired because I tried to solve our difficult problem.",
         ],
         [
-          'sentence' => "It feels great when my problems are solved with team members, whereas I got tired so much.",
+          'sentence' => "I was so tired to solve our team problem today. It was good chance to have a deep discussion among team members.",
         ],
         [
-          'sentence' => "We were able to concentrate to the task so much today that I’m so tired.",
+          'sentence' => "I am so tired today, but we were able to concentrate to the task. I would like to make a next plan referring to today’s experience.",
         ],
         [
-          'sentence' => "All the members of my team looked so tired  because each of us have been working on difficult parts.",
+          'sentence' => "All the members of my team looked so tired because each of us have been working on difficult parts. I would like to consider how to refresh our feeling for working efficiently.",
         ],
         [
-          'sentence' => "My brain got tired so much, but I also had fun to think how to fix errors.",
+          'sentence' => "My brain got tired so much, but I also had fun to think how to fix errors. ",
         ],
         [
-          'sentence' => "I have tiredness because of the lack of sleep. This actually affects my work, so I will go to bed early tonight and recover by next morning.",
+          'sentence' => "I am so tired because of the lack of sleep. It affects my work, so I will go to bed early tonight and recover by next morning.",
         ],
         [
           'sentence' => "I was feeling a little tired in the morning, but as we started working hard I was able to gradually concentrate on the tasks.",
         ],
         [
-          'sentence' => "I will take a good rest tonight to get rid of tiredness of training.",
+          'sentence' => "Today’s training was very difficult for me. I will take a good rest tonight to get rid of my tiredness.",
         ],
         [
-          'sentence' => "My eyes are tired from using the computer for so long. I want to refresh my eyes and myself too.",
+          'sentence' => "My eyes are tired from using the computer for long time. I want to refresh my eyes for tomorrow.",
         ],
         [
-          'sentence' => "We have to figure out to deal with our tiredness.",
+          'sentence' => "I thought that keeping my concentration was so difficult. We have to figure out to deal with our tiredness.",
         ],
         [
-          'sentence' => "Today we were completely tired because we were fully contributed into the task we were doing since yesterday.",
+          'sentence' => "Today we were completely tired because we were fully contributed to the task we were doing since yesterday.",
         ],
         [
-          'sentence' => "I was tired today. I want to recover myself tomorrow.",
+          'sentence' => "I was tired today because we tried to overcome some difficulties. I will take enough rest for tomorrow.",
         ],
         [
-          'sentence' => "I couldn’t have enough sleep yesterday so I was very tired and sleepy.",
+          'sentence' => "I am tired because today’s training was very difficult for me. I am going to review today’s session and take a good rest for tomorrow.",
         ],
         [
-          'sentence' => "I felt really tired but I need to focus on hackathon from tomorrow as soon as possible.",
+          'sentence' => "I felt really tired but I need to focus on training from tomorrow as soon as possible.",
         ],
         [
           'sentence' => "I’m really tired now and some group member caught a cold, so I should take care of myself too.",
@@ -133,7 +133,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I am feeling quite tired today so I will have a good rest at home tonight.",
         ],
         [
-          'sentence' => "I think most of team members will get more tired during this training.",
+          'sentence' => "I think most team members will get more tired during this training.",
         ],
         [
           'sentence' => "I got a little bit tired because we talked so much but it was good that we could share a lot of ideas.",
@@ -151,7 +151,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "Since I slept only for an hour last night, I was a little tired to be honest.",
         ],
         [
-          'sentence' => "Though I am tired and motivation becomes less , I would like to recharge it and keep active from tomorrow too.",
+          'sentence' => "Though I am tired and motivation becomes less, I would like to recharge it and keep active from tomorrow too.",
         ],
         [
           'sentence' => "Coding makes me so tired. I think that means I should learn more about it.",
@@ -167,3 +167,4 @@ class TiredTableSeeder extends Seeder
         
     }
 }
+
