@@ -94,7 +94,7 @@
                    <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
         </div>
     </div>
- <a href="#"><span></span>Scroll</a>
+ 
     
     </form>
 </div>
