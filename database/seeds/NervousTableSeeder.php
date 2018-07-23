@@ -31,7 +31,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "I was nervous before starting this training, but I would like to overcome it by cooperating with my doukis.",
         ],
         [
-          'sentence' => "I was nervous today because I faced some difficulties, but I appreciated my doukis for giving me good advice. ",
+          'sentence' => "I was nervous today because I faced some difficulties, but I appreciated my doukis for giving me good advice.",
         ],
         [
           'sentence' => "I got so nervous about the training, but it is a good opportunity for me to become better business person.",
@@ -52,16 +52,16 @@ class NervousTableSeeder extends Seeder
           'sentence' => "My team mates looked so nervous today in the morning, but I felt better when I saw his smile at the end of the day.",
         ],
         [
-          'sentence' => "I was so nervous if I could contribute to our team members. I thought I need to study coding by myself. ",
+          'sentence' => "I was so nervous if I could contribute to our team members. I thought I need to study coding by myself.",
         ],
         [
-          'sentence' => "One of my teammate was so nervous today, but I didn't know the reason. I will try to make time to talk to him and empower him.",
+          'sentence' => "One of my teammates was so nervous today, but I didn't know the reason. I will try to make time to talk to him and empower him.",
         ],
         [
-          'sentence' => "Today, I was nervous about our future training. I thought it was very important to make time for me to realize what I am worried about. I would like to clarify my worries and do something to solve it.",
+          'sentence' => "I was nervous about our future training. I thought it was very important to make time for me to realize what I am worried about. I would like to clarify my worries and do something to solve it.",
         ],
         [
-          'sentence' => "Today, one of my teammates were so nervous, but I could not understand why he was. So, I tried to listen carefully to him. Now I think he is getting better. I thought that it is very important to have an open mind for other people for making good relationship.",
+          'sentence' => "one of my teammates were so nervous, but I could not understand why he was. So, I tried to listen carefully to him. Now I think he is getting better. I thought that it is very important to have an open mind for other people for making good relationship.",
         ],
         [
           'sentence' => "I'm nervous, because I cannot tell if I will good relationship with my teammates. I think is important to make a chance to know each other for building a comfortable team. I would like to try to promote an active discussion in my team.",
@@ -70,7 +70,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "Today's session made me really nervous. Know I don’t know whether we are thinking correctly for this situation.",
         ],
          [
-          'sentence' => " I’m nervous but my group members are very kind so I am sure they will help me. I will do my best.",
+          'sentence' => "I’m nervous but my group members are very kind so I am sure they will help me. I will do my best.",
         ],
          [
           'sentence' => "I was so nervous last night because I couldn't imagine I could work well in the future. Just as I thought, it was not easy for me, but it was a good opportunity to make me highly motivated.",

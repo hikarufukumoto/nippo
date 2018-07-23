@@ -76,7 +76,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "Today, my teammate looked happy. Of course someone's happy is so important, but also we need to make メリハリ during the training.",
         ],
         [
-          'sentence' => "I am glad to have an active discussion with my teammate for making better solution.",
+          'sentence' => "I am glad to have an active discussion with my teammate for making better solutions.",
         ],
         [
           'sentence' => "I am glad to learn many aspects from our team members. I would like to cooperate with them for better work.",

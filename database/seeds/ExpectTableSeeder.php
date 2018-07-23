@@ -103,7 +103,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I'm looking forward to working with my teammates because I like my team and I think we can have a good relationship as a team.",
         ],
         [
-          'sentence' => "I’m so looking forward to corporating with our team members . Then , I wish our dream will come true.",
+          'sentence' => "I’m so looking forward to corporating with our team members. Then, I wish our dream will come true.",
         ],
         [
           'sentence' => "I'm looking forward to doing my best tomorrow and I hope I have a great day tomorrow.",

@@ -46,7 +46,7 @@
         <div class="col-md-8 col-md-offset-2">
                       
             
-                        <div class="workonon">■Thoughts on Today■<br>Today, we worked on {{ $name }}.
+                        <div class="workonon">■Thoughts on Today■<br>Today, I worked on {{ $name }}.
                         
                         
                         
@@ -88,7 +88,8 @@
                          @endforeach
                          @foreach($special as $m)
                           <span class="result">{{$m->sentence}}</span>
-                         @endforeach<br><br>
+                         @endforeach Thank you.<br><br>
+                         
                          
                          
           ■Next Business Day's Goals■<br>
