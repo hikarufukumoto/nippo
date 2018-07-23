@@ -61,13 +61,13 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "I noticed that many doukis have a great interest in department assignment, so I want to talk to them and exchange our opinions.",
         ],
          [
-          'sentence' => "I noticed that creating new systems are very interesting. I want to study more about Shikumika in this company.",
+          'sentence' => "I noticed that creating new systems was very interesting. I want to study more about Shikumika in this company.",
         ],
          [
           'sentence' => "I want to know and share doukis' interests and get along well with them. It will be very important for us to create good relationships and also to use that connection for jobs.",
         ],
          [
-          'sentence' => "I'm interested in improving my English skill, so I must study more and more. I need to take a more time for studying English. ",
+          'sentence' => "I'm interested in improving my English skill, so I must study more and more. I need to take a more time for studying English.",
         ],
          [
           'sentence' => "Recently, I'm interested in many doukis, because every douki have overwhelming identities that I haven't seen before. I want to increase the opportunity to talk with my doukis to know them more.",
@@ -139,7 +139,7 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "My doukis have various abilities in many aspects. So, I'm interesting in them and I want to expand my circle of friends and I want to know more  about my doukis.",
         ],
          [
-          'sentence' => "I'm interesting to grow up myself and I feel that I can grow up day by day. But I realize that I'm still weak. So, I want to make effort more and more. ",
+          'sentence' => "I'm interesting to grow up myself and I feel that I can grow up day by day. But I realize that I'm still weak. So, I want to make an effort more and more.",
         ],
          [
           'sentence' => "All of my doukis have a huge interest in concerning today's training content. And I have interest in it too. I understand today's content, and I want to review it in order to understand it more.",
@@ -151,7 +151,7 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "The system of the training was very interesting and I feel that it is very grateful that we can choose the course which we would like to take.",
         ],
        [
-          'sentence' => " I found out that every doukis have many interesting ways of thinking. I respect them and I want to get along with them more.",
+          'sentence' => "I found out that every doukis have many interesting ways of thinking. I respect them and I want to get along with them more.",
         ],
          [
           'sentence' => "I found that my teammate has no interest to me. I felt sad so I decided to change myself.",

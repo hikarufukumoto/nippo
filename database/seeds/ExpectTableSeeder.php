@@ -46,13 +46,13 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "Retrieving data. Wait a few seconds and try to cut or copy again.",
         ],
         [
-          'sentence' => "I am looking forward to getting more knowledge form every session we are going to join.",
+          'sentence' => "I am looking forward to getting more knowledge from every session we are going to join.",
         ],
         [
           'sentence' => "I am looking forward to meeting all doukis everyday. All of my doukis have a good abilities in many aspects. So I can spend precious time.",
         ],
         [
-          'sentence' => "All of my teammates have a outstanding abilities. So I'm looking forward to meeting them everyday.",
+          'sentence' => "All of my teammates have outstanding abilities. So I'm looking forward to meeting them everyday.",
         ],
         [
           'sentence' => "I am able to spend precious time everyday, because I have many good friends in doukis. I'm looking forward to meeting them everyday.",
@@ -136,13 +136,13 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I am not sure how well we will be able to accomplish this, but I am looking forward to working on this assignment.",
         ],
         [
-          'sentence' => "Tomorrow, we will have a lunch with sempai, so I am looking forward to that. I want to absorb him a lot.",
+          'sentence' => "Tomorrow, we will have a lunch with sempai, so I am looking forward to that. I want to absorb a lot of things from him.",
         ],
         [
           'sentence' => "I am looking forward to achieving my dream, but I think we should be really careful not to think about our ideal product too much.",
         ],
         [
-          'sentence' => " In the phase of today, it seems there are a lot of things to do but I am looking forward to building product in my team.",
+          'sentence' => "In the phase of today, it seems there are a lot of things to do but I am looking forward to building product in my team.",
         ],
         [
           'sentence' => "I am looking forward to seeing my team tomorrow as well. I think we can have a good relationship.",

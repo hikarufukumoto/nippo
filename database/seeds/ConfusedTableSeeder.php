@@ -65,7 +65,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "There were a lot of things to remember. So, I am very confused right now. I want to take enough rest.",
         ],
         [
-          'sentence' => "I have to say sorry to my team because I confused them by being assertive. I had to reflect on my behavior and not be repeated.",
+          'sentence' => "I have to say sorry to my team because I made them confuse by being assertive. I had to reflect on my behavior and not be repeated.",
         ],
         [
           'sentence' => "I asked some doukis about their future career. I was confused that they had a clear vision about their future. So, I want to make effort seeking my future vision.",
@@ -149,7 +149,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I am very confused, because I spent hard time trying to output what I have learned so far. I will keep on making time to review.",
         ],
         [
-          'sentence' => "I am confused to myself because I have already forgotten the learning of today. I need to review about that today.",
+          'sentence' => "I am confused about myself because I have already forgotten the learning of today. I need to review about that today.",
         ],
         [
           'sentence' => "I don't want to confuse my team mates. But, because of lack of my communications skill, I confuse my team mates. I thought that I need to improve my communications skill.",

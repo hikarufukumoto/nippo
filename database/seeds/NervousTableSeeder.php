@@ -25,7 +25,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "I get nervous when I have to do a presentation. I will practice again and again to overcome it.",
         ],
         [
-          'sentence' => "I was nervous today. But now I know this feeling was very valuable experience. I would like to absorb many knowledge and skill as a business person to encourage my doukis during this training.",
+          'sentence' => "I was nervous, but I know this feeling was very valuable experience. I would like to absorb many knowledge and skill as a business person to encourage my doukis during this training.",
         ],
         [
           'sentence' => "I was nervous before starting this training, but I would like to overcome it by cooperating with my doukis.",
@@ -49,7 +49,7 @@ class NervousTableSeeder extends Seeder
           'sentence' => "All of my teammates were so nervous about coding training. I thought we need to have more time to improve this situation. I am going to try to remove their stress by discussing about this topic deeply.",
         ],
         [
-          'sentence' => "My team mates looked so nervous today in the morning, but I felt better when I saw his smile at the end of the day.",
+          'sentence' => "My team mate looked so nervous in this morning, but I felt better when I saw his smile at the end of the day.",
         ],
         [
           'sentence' => "I was so nervous if I could contribute to our team members. I thought I need to study coding by myself.",

@@ -19,7 +19,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am so happy that each of us worked so seriously and took some rest efficiently.",
         ],
         [
-          'sentence' => "I was proud of my team because were able to solve our problem today. I was so happy to see my team member's smile. ",
+          'sentence' => "I was proud of my team because were able to solve our problem today. I was so happy to see my team member's smile.",
         ],
         [
           'sentence' => "Because we were stuck from yesterday, we felt happy when we were able to solve our problems.",
@@ -31,7 +31,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was so happy that I was rewarded by other group members. I would like to keep studying to contribute to our team.",
         ],
         [
-          'sentence' => "We were very happy since we had a good conversation among our team. We would like to keep good conversation for good team building",
+          'sentence' => "We were very happy since we had a good conversation among our team. We would like to keep good conversations for good team building",
         ],
         [
           'sentence' => "I’m really happy that I managed to achieve today’s goal. It was not easy for me, but I thought I could use working time efficiently.",
@@ -58,7 +58,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was so happy for our team to have a good discussion about task.",
         ],
         [
-          'sentence' => "I am happy to be able to deepen my understanding well today. ",
+          'sentence' => "I am happy to be able to deepen my understanding well today.",
         ],
         [
           'sentence' => "I am glad to have a chance to work on this training. I would like to review today’s session for deeper understanding.",
@@ -67,13 +67,13 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was happy to know that my teammates were relying on me. I also felt that I need to improve myself.",
         ],
        [
-          'sentence' => "Today, I had lunch with sempai. I am so happy to have a chance to talk with sempai. I can learn lots of things from him and I will review what I learned.",
+          'sentence' => "I had lunch with sempai. I am so happy to have a chance to talk with sempai. I can learn lots of things from him and I will review what I learned.",
         ],
         [
           'sentence' => "I was so happy to get an opportunity to ask sempai about Rakuten. Now I know how to build my own career in this company.",
         ],
         [
-          'sentence' => "Today, my teammate looked happy. Of course someone's happy is so important, but also we need to make メリハリ during the training.",
+          'sentence' => "My teammate looked happy. Of course someone's happy is so important, but also we need to make メリハリ during the training.",
         ],
         [
           'sentence' => "I am glad to have an active discussion with my teammate for making better solutions.",
@@ -82,13 +82,13 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am glad to learn many aspects from our team members. I would like to cooperate with them for better work.",
         ],
         [
-          'sentence' => "We proceeded much slower than usual, but I’m pleased with the fact that we managed to understand deeply. ",
+          'sentence' => "We proceeded much slower than usual, but I’m pleased with the fact that we managed to understand deeply.",
         ],
         [
           'sentence' => "We have a difficult problem now, but I am pleased that my teammates are still highly motivated. We are going to solve this problem by cooperating with each other.",
         ],
         [
-          'sentence' => " I am pleased that our team are progressing smoothly by cooperating well.",
+          'sentence' => "I am pleased that our team are progressing smoothly by cooperating well.",
         ],
         [
           'sentence' => "I am so happy that we were able to overcome some of our problems today. I thought that it was important to cooperate with our team members for finding better solution.",
@@ -115,7 +115,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am so glad to have a good relationship with my team members. We will keep working hard.",
         ],
         [
-          'sentence' => "Recently, I'm so glad to see our teammates. All of them have strong characteristics. ",
+          'sentence' => "Recently, I'm so glad to see our teammates. All of them have strong characteristics.",
         ],
         [
           'sentence' => "I thought that it was very important to look about other doukis. I will keep thinking how we can work on as a team happily.",
@@ -133,10 +133,10 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was so happy today because my sworn douki spoke in front of us. I was influenced by him and I decided to speech in front of our doukis next time.",
         ],
         [
-          'sentence' => "Today, I was so happy that I could achieve one of the long-term goals. I want to set next goal, and I want to achieve it again.",
+          'sentence' => "I was so happy that I could achieve one of the long-term goals. I want to set next goal, and I want to achieve it again.",
         ],
         [
-          'sentence' => "I'm so happy to be Rakutenian, because there are a lot of people who have highly motivation and have good entrepreneurship. ",
+          'sentence' => "I'm so happy to be Rakutenian, because there are a lot of people who have highly motivation and have good entrepreneurship.",
         ],
          [
           'sentence' => "I'm pleased to say that my team finally finished our project. It was quite a long struggle to us, but, we finally made it. We want to praise ourselves.",
@@ -145,13 +145,13 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am pleased to present the results of my challenge. I have started to pay more attention to my doukis since last week. I talked with new doukis, and I could have a good relationship with them.",
         ],
         [
-          'sentence' => "Today, I encountered difficult obstacles. I think that it is very hard, but it will be a good chance to grow up as a business person. So, I want to make a big effort.",
+          'sentence' => "I encountered difficult obstacles. I think that it is very hard, but it will be a good chance to grow up as a business person. So, I want to make a big effort.",
         ],
         [
-          'sentence' => " I was very happy today, because my teammate looked happy. I guessed the reason they looked happy is that they could get partner.",
+          'sentence' => "I was very happy today, because my teammate looked happy. I guessed the reason they looked happy is that they could get partner.",
         ],
         [
-          'sentence' => "Today, I could listen to my teammate's dream that he wants to achieve at here. So, it was a happiness for me. At the same time, I was impressed by him and I thought that I need to imagine more about my future.",
+          'sentence' => "I could listen to my teammate's dream that he wants to achieve at here. So, it was a happiness for me. At the same time, I was impressed by him and I thought that I need to imagine more about my future.",
         ],
         
 

@@ -18,7 +18,7 @@ class SatisfiedTableSeeder extends Seeder
         ],
         
         [
-          'sentence' => " I am satisfied because our team had a good discussion today.",
+          'sentence' => "I am satisfied because our team had a good discussion today.",
         ],
         [
           'sentence' => "I was satisfied today because I had a lunch with sempai and could ask what I concerned about.",
@@ -57,7 +57,7 @@ class SatisfiedTableSeeder extends Seeder
           'sentence' => "We were satisfied since we were able to prompt our discussion.",
         ],
         [
-          'sentence' => "I was not fully satisfied by our discussion today since we couldn't care much about MECE. ",
+          'sentence' => "I was not fully satisfied by our discussion today since we couldn't care much about MECE.",
         ],
         [
           'sentence' => "I'm satisfied by my outcome today. I will keep on doing good work for tomorrow too.",
@@ -72,19 +72,19 @@ class SatisfiedTableSeeder extends Seeder
           'sentence' => "I am satisfied with this new grads' training. All contents are so beneficial, so this training promotes my growth. I want to learn more from this training, and I want to grow up more toward my assignment.",
         ],
          [
-          'sentence' => "Today, I could promote our team's group work, and I thought that everyone was able to speak evenly. It was so important more than get good result. I felt satisfied with today's training.",
+          'sentence' => "I could promote our team's group work, and I thought that everyone was able to speak evenly. It was so important more than get good result. I felt satisfied with today's training.",
         ],
          [
-          'sentence' => "Today, I thought that our team couldn't promote group work smoothly. At the same time, all of us made a good effort to be a good group work, so I appreciated our teammates. I want to satisfy our teammates in daily new grads' training from tomorrow.",
+          'sentence' => "I thought that our team couldn't promote group work smoothly. At the same time, all of us made a good effort to be a good group work, so I appreciated our teammates. I want to satisfy our teammates in daily new grads' training from tomorrow.",
         ],
          [
-          'sentence' => "Today, I could promote our team's group work, but I couldn't give an opportunity to speak everyone evenly. So, I learned that it is difficult to satisfy everyone. But I want to make an effort to satisfy all of my teammates.",
+          'sentence' => "I could promote our team's group work, but I couldn't give an opportunity to speak everyone evenly. So, I learned that it is difficult to satisfy everyone. But I want to make an effort to satisfy all of my teammates.",
         ],
          [
           'sentence' => "I'm satisfied with my study attitude, but I don't think that I get enough outcome. The reason is that I can't study effectively. So, I need to improve my study efficiency.",
         ],
          [
-          'sentence' => "I'm satisfied with our team's attitude in this new grads' training, but I don't think that we get enough outcome. So, I want to get an, opportunity to talk with each our teammates, and I want to make good team more than now.",
+          'sentence' => "I'm satisfied with our team's attitude in this new grads' training, but I don't think that we get enough outcome. So, I want to get an opportunity to talk with each our teammates and I want to make good team more than now.",
         ],
          [
           'sentence' => "We're satisfied with today's outcome in this new grads' training. And I think that our team could create a good relationship. So, I want to make good team more than now.",
@@ -99,22 +99,22 @@ class SatisfiedTableSeeder extends Seeder
           'sentence' => "I was satisfied with my behavior. I think that I could have an awareness as a member of society. And I want to keep my behavior and I want to be an  excellent member of society.",
         ],
          [
-          'sentence' => "Today, I could achieve my goal, so I was satisfied with my outcome. It was my long term goal and I made big effort to achieve it. I want to set the next goal and keep effort forever and ever.",
+          'sentence' => "I could achieve my goal, so I was satisfied with my outcome. It was my long term goal and I made big effort to achieve it. I want to set the next goal and keep effort forever and ever.",
         ],
          [
           'sentence' => "I love this new grads' training and I'm satisfied with it every day. It is valuable for me and I could grow up through this new grads' training. I want to learn more.",
         ],
          [
-          'sentence' => "Today, our team could finish some tasks. We made a big effort to finish it, so we were satisfied with it. At the same time, I was satisfied.",
+          'sentence' => "Our team could finish some tasks. We made a big effort to finish it, so we were satisfied with it. At the same time, I was satisfied.",
         ],
          [
-          'sentence' => " I am definitely satisfied with the current job. I really have a lot of good doukis and daily training is awesome experience for me.",
+          'sentence' => "I am definitely satisfied with the current job. I really have a lot of good doukis and daily training is awesome experience for me.",
         ],
          [
           'sentence' => "I'm satisfied with the current state of things. so far, it's been no problem. I can do what I like in this company, and I have many of good doukis.",
         ],
          [
-          'sentence' => "I would like to meet to discuss with my team mates about our directions. We were satisfied with the result. ",
+          'sentence' => "I would like to meet to discuss with my team mates about our directions. We were satisfied with the result.",
         ],
          [
           'sentence' => "All of us have worked hard today. I was satisfied with myself for working so hard.",
@@ -156,7 +156,7 @@ class SatisfiedTableSeeder extends Seeder
           'sentence' => "I was satisfied with my performance. I could concentrate on today's task and our team could cooperate with each other.",
         ],
        [
-          'sentence' => "Today, I was satisfied with my performance. But my teammate told me that your satisfaction is the condition of feeling self-satisfied.",
+          'sentence' => "I was satisfied with my performance. But my teammate told me that your satisfaction is the condition of feeling self-satisfied.",
         ],
 
         

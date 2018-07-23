@@ -119,10 +119,10 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "I am anxious about my future career because I can not see the clear way of my career. So I decide to meet sempai who work for Fintech, ask him about his career plan and I will use that for reference.",
         ],
         [
-          'sentence' => "I am anxious about health care. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+          'sentence' => "I am anxious about health care. The condition of my team is not good right now. It is our duty to manage our health and stay healthy. So I will have to pay attention to this problem.",
         ],
         [
-          'sentence' => "I am worried about health care. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
+          'sentence' => "I am worried about health care. The condition of my team is not good right now. It is our duty to manage our health and stay healthy. So I will have to pay attention to this problem.",
         ],
         [
           'sentence' => "I am worried about our health. The condition of my team is not good right now. It is our duty to manage our health and stay health. So I will have to pay attention to this matter.",
