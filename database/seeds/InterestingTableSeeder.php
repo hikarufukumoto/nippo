@@ -97,7 +97,7 @@ class InterestingTableSeeder extends Seeder
           'sentence' => "I am interested in various type of jobs and that is why I joined this company. I have many chances to work various type of jobs. So, I can't wait working as a full-time worker.",
         ],
         [
-          'sentence' => "I could know how sempai coexist both a work life and a private life through talking with sempai. And I know that it is difficult for a person with wide interests to do that like me. So, I have to think it over again.",
+          'sentence' => "I could know how sempai coexist both a work life and a private life through talking with sempai. And I know that it is difficult for a person with wide interests to do that. So, I have to think it over again.",
         ],
         [
           'sentence' => "I have interests in various type of jobs and that is why I joined this company. I have many chances to work various type of jobs. So I can't wait working as a full-time worker.",

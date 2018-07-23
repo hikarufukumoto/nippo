@@ -18,7 +18,7 @@ class Special extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = rand(1,15);
+   $select = rand(1,14);
    $special = DB::table('special')->where('id',$select)->get();
 
     return $special;

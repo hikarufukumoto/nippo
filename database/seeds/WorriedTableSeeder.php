@@ -32,16 +32,16 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "All of my team mates were worried about their career. So we will make a time for discussing about it tomorrow.",
         ],
         [
-          'sentence' => "I’m still worrying about my department assignment, but I will try to think it positively. ",
+          'sentence' => "I’m still worrying about my department assignment, but I will try to think it positively.",
         ],
         [
-          'sentence' => " I cannot help worrying about my first department assignment. I will continue making time and talk to senpais.",
+          'sentence' => "I cannot help worrying about my first department assignment. I will continue making time and talk to senpais.",
         ],
         [
           'sentence' => "If we are afraid of making mistakes or how other people would think of your opinion too much, we would never reach the great output.",
         ],
         [
-          'sentence' => " I was afraid of making errors because I couldn’t fully understand all at once. But I have to change my mind to try to understand what is the true problem of errors.",
+          'sentence' => "I was afraid of making errors because I couldn’t fully understand all at once. But I have to change my mind to try to understand what is the true problem of errors.",
         ],
         [
           'sentence' => "I'm worried about my future career. So I will ask my team about their own career and think about it seriously.",
@@ -50,13 +50,13 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "I was  afraid of making mistakes. But I learned making mistakes is not bad things and we can learn from mistakes. So I want to change  my mind from tomorrow.",
         ],
         [
-          'sentence' => "I am afraid that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+          'sentence' => "I am afraid that we are moving on or not tomorrow. Because there are many things to discuss about, we will make time for discussion tomorrow.",
         ],
         [
-          'sentence' => "I am anxious that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+          'sentence' => "I am anxious that we are moving on or not tomorrow. Because there are many things to discuss about, we will make time for discussion tomorrow.",
         ],
         [
-          'sentence' => "I am worried that we are moving on or not tomorrow. Because there are many things to discuss about, so we will make time for discussion tomorrow.",
+          'sentence' => "I am worried that we are moving on or not tomorrow. Because there are many things to discuss about, we will make time for discussion tomorrow.",
         ],
         [
           'sentence' => "I was worried that I could understand all of what I learned today. So when I go home, I will have to review that.",
@@ -65,7 +65,7 @@ class WorriedTableSeeder extends Seeder
           'sentence' => "I am worried about my future career. Because there are many jobs which I want to do in this company. So I decided to meet some sempais to ask their jobs.",
         ],
         [
-          'sentence' => "I am so anxious about my future career. Because there are many jobs which I want to do in this company. So I decided to meet some sempais to ask their jobs.",
+          'sentence' => "I am so anxious about my future career because there are many jobs which I want to do in this company. So I decided to meet some sempais to ask their jobs.",
         ],
         [
           'sentence' => "I am worried that I can understand the meaning of this training and I can use the skill which I obtain in this training or not. There are so many things to learn and think about. It is not easy to understand contents of this training completely. But I will keep doing my best.",
@@ -93,9 +93,6 @@ class WorriedTableSeeder extends Seeder
         ],
         [
           'sentence' => "I am anxious about our team. I think we can have a very very good relationship but I feel that this relationship may be like a student one. So we have to change our mind right now and behave properly.",
-        ],
-        [
-          'sentence' => "I am afraid of our team. I think we can have a very very good relationship but I feel that this relationship may be like a student one. So we have to change our mind right now and behave properly.",
         ],
         [
           'sentence' => "I am worried about this training. Because I am not good at talking with a stranger which means not a friend. So it is a good chance for me to develop myself to be friendly person.",

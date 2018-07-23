@@ -130,12 +130,6 @@ class ImpressedTableSeeder extends Seeder
           'sentence' => "I was impressed that my teammate cheered me when I was panic. I decided to reward them someday. I must study hard and continue efforts.",
         ],
         [
-          'sentence' => "I believed that my sincere behavior impress my teammate. I want them to keep up with me. They should study hard and continue efforts.",
-        ],
-        [
-          'sentence' => "I believed that my sincere behavior impress my teammate. I want them to be me so they should study hard and continue efforts.",
-        ],
-        [
           'sentence' => "The first impression about this training was not good. However, as I am studying hard, I am getting to understand that.",
         ],
         [

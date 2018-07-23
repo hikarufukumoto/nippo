@@ -148,9 +148,6 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I encountered difficult obstacles. I think that it is very hard, but it will be a good chance to grow up as a business person. So, I want to make a big effort.",
         ],
         [
-          'sentence' => "I was very happy today, because my teammate looked happy. I guessed the reason they looked happy is that they could get partner.",
-        ],
-        [
           'sentence' => "I could listen to my teammate's dream that he wants to achieve at here. So, it was a happiness for me. At the same time, I was impressed by him and I thought that I need to imagine more about my future.",
         ],
         

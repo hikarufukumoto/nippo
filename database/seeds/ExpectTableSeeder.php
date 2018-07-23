@@ -91,7 +91,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I am not sure what is exactly business casual.I'm looking forward to seeing my douki's fashion and at the same time, I have to learn from them.",
         ],
         [
-          'sentence' => "I'm looking forward to getting some feedbacks from my teammates about today's contents. Because I don't have any confident what I said today. So I want my teammates to review my opinion to think it over again.",
+          'sentence' => "I'm looking forward to getting some feedbacks from my teammates about today's contents. Because I don't have any confidences what I said today. So I want my teammates to review my opinion to think it over again.",
         ],
         [
           'sentence' => "I could contact sempai who belong to Fintech which I am interested in. I'm looking forward to eating a lunch with sempai in next business day.",
@@ -115,7 +115,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I'm looking forward to talking douki who I hadn't talk yet. I want doukis to know me.",
         ],
         [
-          'sentence' => "My teammates are looking forward to getting knowledge deeper and deeper and I am also looking forward to doing by cooperating with each other.",
+          'sentence' => "My teammates are looking forward to getting knowledge and I am also looking forward to doing by cooperating with each other.",
         ],
         [
           'sentence' => "I am looking forward to hearing the actual voices of the customers in workplace. In order to do that, I must study hard.",
@@ -136,7 +136,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I am not sure how well we will be able to accomplish this, but I am looking forward to working on this assignment.",
         ],
         [
-          'sentence' => "Tomorrow, we will have a lunch with sempai, so I am looking forward to that. I want to absorb a lot of things from him.",
+          'sentence' => "We will have a lunch with sempai tomorrow, so I am looking forward to that. I want to absorb a lot of things from him.",
         ],
         [
           'sentence' => "I am looking forward to achieving my dream, but I think we should be really careful not to think about our ideal product too much.",

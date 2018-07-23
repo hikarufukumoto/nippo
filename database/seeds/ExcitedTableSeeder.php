@@ -46,7 +46,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "It was so excited to think about my future. I think I have to think it over and over again because it is me to decide the way of my career. So, when I go home, I will write my thought about my career down.",
         ],
         [
-          'sentence' => " I am excited about eating a lunch with my douki tomorrow and I will ask some questions to think about my distress.",
+          'sentence' => "I am excited about eating a lunch with my douki tomorrow and I will ask some questions to think about my distress.",
         ],
         [
           'sentence' => "I am so excited about our future potential because of this training. I can learn a lot of things and now my mind to career is so aggressive which means that I want to do everything.",
@@ -58,7 +58,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I am so excited during this training because our team had a discussion and came to conclusion. I will try to have a good discussion.",
         ],
         [
-          'sentence' => "Today, I was so excited to have a discussion related to Rakuten. I learned about this company and I learned how I could build my career plan. I will keep what I have learned today in my mind.",
+          'sentence' => "I was so excited to have a discussion related to Rakuten. I learned about this company and I learned how I could build my career plan. I will keep what I have learned today in my mind.",
         ],
         [
           'sentence' => "I was excited to think about my career in Rakuten. Because there are so many kind of jobs and so I can work as EC and Travel consultant in the same company. I am looking forward to working as a full-time worker.",

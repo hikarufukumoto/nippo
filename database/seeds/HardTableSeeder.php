@@ -25,7 +25,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It is still difficult for me to remember whole PC short cut command but I want to remember them all by end of this training.",
         ],
         [
-          'sentence' => "I am feeling that this coding training is difficult than I expected.",
+          'sentence' => "I am feeling that this coding training is much difficult than I expected.",
         ],
         [
           'sentence' => "I found that good communication with our team mates may make my tiredness smaller. I'll keep on communicating my team mates more.",
@@ -40,7 +40,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "I want to express a lot of my thoughts, but it is so difficult to write all of them.",
         ],
         [
-          'sentence' => " It is so difficult to create one thing with many people.",
+          'sentence' => "It is so difficult to create one thing with many people.",
         ],
         [
           'sentence' => "I felt it was difficult to communicate with my team members.",
@@ -109,7 +109,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "Discussing one topic in the team is very difficult. I will try to find efficient way to discuss from tomorrow.",
         ],
         [
-          'sentence' => "Today I faced many difficulties during this training. I will try to think how I can overcome with these problems.",
+          'sentence' => "I faced many difficulties during this training. I will try to think how I can overcome with these problems.",
         ],
         [
           'sentence' => "During this training, our group faced many difficult situations and we were able to overcome these problems because we worked as a one team. We will continue to work had to improve ourselves.",

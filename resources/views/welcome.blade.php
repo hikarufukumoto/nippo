@@ -77,7 +77,7 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Start NIPPO can help you write better daily report! Just download your template and start going!</p>
+            <div class="introttt">NIPPOはあなたの日報作りをサポートします</div>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="/home">Create NIPPO</a>
           </div>
@@ -89,9 +89,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">We've got what you need!</h2>
+            <h2 class="section-heading text-white">NIPPOを使ってシンプルに生きよう</h2>
             <hr class="light my-4">
-            <p class="text-faded mb-4">Start NIPPO has everything you need to get your new simple daily report! All of the templates and themes are based on all daily report of 18NG. Feel free to download, and easy to use!</p>
+            <div class="introtttt">過去の同期たちの日報を参考にできるから<br>思いのままに日報が書ける<br>NIPPOは、そんな新しいサービスです</div>
           </div>
         </div>
       </div>
@@ -111,22 +111,22 @@
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">a wealth of databases</h3>
-              <p class="text-muted mb-0">We have a lot of sentences from Daily reports of 18 New Graduates!</p>
+              <h3 class="mb-3">Databases</h3>
+              <p class="text-muted mb-0">過去の18新卒のNIPPOを引用、参考にして日報作成できる</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">You can write daily report quickly!</h3>
-              <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
+              <h3 class="mb-3">Speed!</h3>
+              <p class="text-muted mb-0">時間をかけずにNIPPOが書ける</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
               <h3 class="mb-3">Up to Date</h3>
-              <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
+              <p class="text-muted mb-0">NIPPOのデータベースは常に最新</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">

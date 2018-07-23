@@ -16,13 +16,13 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I was tired to solve our problem today. It was very hard for me, but it was good opportunity to learn how to work as a business person. I will go to bed early for tomorrow.",
         ],
         [
-          'sentence' => "I was so tired because I concentrated to training very much. ",
+          'sentence' => "I was so tired because I concentrated to training very much.",
         ],
         [
           'sentence' => "Our team members looked very tired today. We are going to think how to take a rest efficiently.",
         ],
         [
-          'sentence' => "Today, I faced a lot of errors during coding training which made me tired, but my teammates helped me kindly.",
+          'sentence' => "I faced a lot of errors during coding training which made me tired, but my teammates helped me kindly.",
         ],
         [
           'sentence' => "I was so tired to solve our problem today, but it was a good opportunity to cooperate with each other.",
@@ -79,7 +79,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "Every member looked very tired at the end of the day.",
         ],
         [
-          'sentence' => "I am very tired of typing. I would like to practice blind touch to improve my PC skill. ",
+          'sentence' => "I am very tired of typing. I would like to practice blind touch to improve my PC skill.",
         ],
         [
           'sentence' => "I think my face looks so tired because I tried to solve our difficult problem.",
@@ -94,7 +94,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "All the members of my team looked so tired because each of us have been working on difficult parts. I would like to consider how to refresh our feeling for working efficiently.",
         ],
         [
-          'sentence' => "My brain got tired so much, but I also had fun to think how to fix errors. ",
+          'sentence' => "My brain got tired so much, but I also had fun to think how to fix errors.",
         ],
         [
           'sentence' => "I am so tired because of the lack of sleep. It affects my work, so I will go to bed early tonight and recover by next morning.",
@@ -112,7 +112,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I thought that keeping my concentration was so difficult. We have to figure out to deal with our tiredness.",
         ],
         [
-          'sentence' => "Today we were completely tired because we were fully contributed to the task we were doing since yesterday.",
+          'sentence' => "We were completely tired because we were fully contributed to the task we were doing since yesterday.",
         ],
         [
           'sentence' => "I was tired today because we tried to overcome some difficulties. I will take enough rest for tomorrow.",

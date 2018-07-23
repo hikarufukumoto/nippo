@@ -12,12 +12,14 @@
     margin-top:30px;
     color: #C0C0C0;
     font-size: 20pt;
-    color: white;
+    color: #299EAC;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .intro1{
-    color:white;
+    color:#299EAC;
     font-size: 25pt;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .intro2{
@@ -47,23 +49,25 @@ input:-ms-input-placeholder {
 .positive{
     width: 150px;
     float: left;
-    margin-right:100px; 
+    margin-right:125px; 
 }
 
 .negative{
     width:150px;
     float:left;
-    margin-right:100px; 
+    margin-right:125px; 
 }
 
 .feeling{
     width:150px;
     float:left;
-    margin-right:100px; 
+    margin-right:125px; 
 }
 
 #specialspace{
     height:300px;
+    margin: 0 auto;
+    
 }
 .special{
     width: 150px;
@@ -118,7 +122,7 @@ input[type=checkbox] {
 
 
 .label {
-    background: #f05f40;
+    background: #FF6B60;
 	display: block;		/* ブロックレベル要素化する */ 
 	float: left;		/* 要素の左寄せ・回り込を指定する */ 
 	margin: 5px;		/* ラベル外側の余白を指定する */
@@ -130,7 +134,7 @@ input[type=checkbox] {
 	padding-right: 5px;	/* ラベル内右側の余白を指定する */
 	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
 	color:black;			/* フォントの色を指定 */
-	border: 2px solid #f05f40;/* ラベルの境界線を実線で指定する */
+	border: 2px solid #FF6B60;/* ラベルの境界線を実線で指定する */
 	border-radius: 5px;		/* 角丸を指定する */
 }
 
@@ -149,7 +153,7 @@ input[type=checkbox]:checked + label {
 input#submit_button {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     margin: 0 auto;
-    background: white;
+    background: #666666;
 	display: block;		/* ブロックレベル要素化する */ 	
 	margin: 5px;		/* ラベル外側の余白を指定する */
 	width: 150px;		/* ラベルの横幅を指定する */
@@ -159,13 +163,13 @@ input#submit_button {
 	padding-left: 5px;	/* ラベル内左側の余白を指定する */
 	padding-right: 5px;	/* ラベル内右側の余白を指定する */
 	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
-	color:black;			/* フォントの色を指定 */
-	border: 2px solid black;/* ラベルの境界線を実線で指定する */
+	color:white;			/* フォントの色を指定 */
+	border: 2px solid  #666666;
 	border-radius: 5px;	
 	font-size: 30px;
 	position:absolute; 
-	left:67.5%; 
-	top:65%;
+	left:66.6%; 
+	top:77%;
     
     
 }
@@ -198,9 +202,10 @@ input#submit_button {
 }
 
 .zentai{
-   background-image:url(../img/background.jpg);
+	/*   background-image:url(../img/background.jpg);*/
+	background-color: F0F0F0;
    background-size: cover;
-   height: 1000px;
+   height: 700px;
 }
 
 .btnback{
@@ -233,3 +238,77 @@ input#submit_button {
     
 }
 
+label[for="tired"] {
+
+background:#299EAC;
+border: 2px solid #299EAC;
+}
+
+label[for="confused"] {
+
+background:#299EAC;
+border: 2px solid #299EAC;
+}
+
+label[for="worried"] {
+
+background:#299EAC;
+border: 2px solid #299EAC;
+}
+
+label[for="hard"] {
+
+background:#299EAC;
+border: 2px solid #299EAC;
+}
+
+label[for="nervous"] {
+
+background:#299EAC;
+border: 2px solid #299EAC;
+}
+
+
+
+label[for="impressed"] {
+
+background:#FF9914;
+border: 2px solid #FF9914;
+}
+
+label[for="important"] {
+
+background:#FF9914;
+border: 2px solid #FF9914;
+}
+
+label[for="special"] {
+
+background:#FF9914;
+border: 2px solid #FF9914;
+}
+
+
+.btnback {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    margin: 0 auto;
+    background: #666666;
+	display: block;		/* ブロックレベル要素化する */ 	
+	margin: 5px;		/* ラベル外側の余白を指定する */
+	width: 150px;		/* ラベルの横幅を指定する */
+	height: 50px;		/* ラベルの高さを指定する */
+	text-align: center;	/* テキストのセンタリングを指定する */
+	line-height: 45px;	/* 行の高さを指定する */
+	padding-left: 5px;	/* ラベル内左側の余白を指定する */
+	padding-right: 5px;	/* ラベル内右側の余白を指定する */
+	cursor: pointer;		/* マウスカーソルの形（リンクカーソル）を指定する */
+	color:white;			/* フォントの色を指定 */
+	border: 2px solid  #666666;
+	border-radius: 5px;	
+	font-size: 30px;
+	position:absolute; 
+	left:66.6%; 
+	top:77%;
+    
+    
+}

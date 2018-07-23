@@ -18,7 +18,7 @@ class Impressed extends Model
   public function getData()
   {
    // $select = rand(1,2); //idの最大値を入力する
-   $select = rand(1,49);
+   $select = rand(1,47);
    $impressed = DB::table('impressed')->where('id',$select)->get();
 
     return $impressed;
