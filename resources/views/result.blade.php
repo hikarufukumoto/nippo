@@ -117,6 +117,7 @@
           <a class="btnback" href="{{ url('/home') }}">Back</a>
           
 </div>
+
 @endsection
 
 
