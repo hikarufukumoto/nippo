@@ -49,10 +49,10 @@
             <label for="whatwedid"></label>
             
             <span class="intro1">
-                ① Today, I worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder="ex)PHP, coding etc.">.</span>
+                ① Today, I worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder=" ex) PHP, coding etc.">.</span>
             <br><br>
         </div>
-        <div class="text1"><b>② Please choose at least 5 feelings from followings.</b></div>
+        <div class="text1">② Please choose at least 5 feelings from followings.</div>
         <section id="section-1" class="section">
         <div class="choose">
         
@@ -68,7 +68,7 @@
                         <input type="checkbox" name="satisfied" value="5" id="satisfied">
                         <label for="satisfied" class="label"><div class="text">Satisfied</div></label>
                     </div>
-                    <div class="negative clearfix">
+                    <div class="negative">
                         
                         <input type="checkbox" name="tired" value="6" id="tired">
                         <label for="tired" class="label"><div class="text">Tired</div></label>
@@ -81,7 +81,7 @@
                         <input type="checkbox" name="nervous" value="10" id="nervous">
                         <label for="nervous" class="label"><div class="text">Nervous</div></label>
                     </div>
-                    <div class="feeling clearfix">
+                    <div class="feeling">
                         <input type="checkbox" name="impressed" value="11" id="impressed">
                         <label for="impressed" class="label"><div class="text">Impressed</div></label>
                         <input type="checkbox" name="important" value="12" id="important">
