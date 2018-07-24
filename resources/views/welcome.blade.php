@@ -42,7 +42,7 @@
               <a class="nav-link js-scroll-trigger" href="#about">About Service</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Contact us</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Meet Us</a>
             </li>
 
             @if (Route::has('login'))
@@ -144,7 +144,7 @@
       <div class="container-fluid p-0">
         <div class="row no-gutters popup-gallery">
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/shibaryo.png">
+            <a class="portfolio-box" href="img/portfolio/fullsize/shiba.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/shiba.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -159,7 +159,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/daichi1.jpg">
+            <a class="portfolio-box" href="img/portfolio/fullsize/daichi.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/daichi.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -174,7 +174,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+            <a class="portfolio-box" href="img/portfolio/fullsize/hikaru.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/hikaru.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -189,7 +189,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+            <a class="portfolio-box" href="img/portfolio/fullsize/shota.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/shota.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -204,7 +204,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+            <a class="portfolio-box" href="img/portfolio/fullsize/haewon.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/haewon.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -219,7 +219,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="">
+            <a class="portfolio-box" href="img/portfolio/fullsize/nao.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/nao.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">

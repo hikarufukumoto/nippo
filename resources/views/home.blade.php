@@ -41,6 +41,7 @@
     <div class="zentai2">
 @section('content')
 <div class="container">
+    
     <form action="/result" method="post">
     
     <div class="row">
