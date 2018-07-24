@@ -97,9 +97,6 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I was so excited that I couldn't sleep last night because of special event. To tell the truth, I got a partner. It was precious time.",
         ],
         [
-          'sentence' => "I realized that I could grow up whenever you want in this company because there are loads of opportunities to try something.",
-        ],
-        [
           'sentence' => "I was so excited about this training because there are loads of things to learn. So, when I go home, I have to review that all.",
         ],
         [

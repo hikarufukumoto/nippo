@@ -32,9 +32,6 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I was confused about what should I do first. So, I want to write to do list from tomorrow.",
         ],
          [
-          'sentence' => "I had a lot of issues to discuss and I’m a little bit confused. I tried not to stop thinking and trying to improve.",
-        ],
-         [
           'sentence' => "I am very confused because I had to absorb huge amount of information. I want to take a rest after finishing this new grads’ training.",
         ],
          [
