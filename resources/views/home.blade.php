@@ -38,6 +38,7 @@
 <!--@extends('layouts.app')-->
 
 <header class="zentai">
+    <div class="zentai2">
 @section('content')
 <div class="container">
     <form action="/result" method="post">
@@ -84,12 +85,10 @@
                         <label for="impressed" class="label"><div class="text">Impressed</div></label>
                         <input type="checkbox" name="important" value="12" id="important">
                         <label for="important" class="label"><div class="text">Important</div></label>
-                    </div>
-                    <div id = "specialspace">
-                    <div class="special clearfix">
-                        <input type="checkbox" name="special" value="13" id="special">
+                          <input type="checkbox" name="special" value="13" id="special">
                         <label for="special" class="label"><div class="text">Special</div></label>
                     </div>
+                  
                     </div>
                    <input id="submit_button" type="submit"><input type="hidden"  name="_token" value="{{ csrf_token() }}" >
         </div>
@@ -98,6 +97,6 @@
     
     </form>
 </div>
-  
+</div>  
 </header> 
 @endsection
