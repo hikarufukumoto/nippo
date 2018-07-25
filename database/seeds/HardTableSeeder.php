@@ -67,7 +67,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It is so difficult for us to bring up with new ideas.",
         ],
         [
-          'sentence' => "It was a little bit difficult to notice our problems. So, I thought that I had to change my way of thinking in ordinary life.",
+          'sentence' => "It was a little bit difficult to notice our problems. I thought that I had to change my way of thinking in ordinary life.",
         ],
         [
           'sentence' => "Thinking about new idea is more difficult than I expected.",
@@ -76,7 +76,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "Thinking about new ideas are difficult. And also, solving problems are very difficult as well.",
         ],
         [
-          'sentence' => "It is difficult for me to change my mind quickly. But I know I must change my mind to move on.",
+          'sentence' => "It is difficult for me to change my mind quickly, but I know I must change my mind to move on.",
         ],
         [
           'sentence' => "I understood that it was very difficult to tell all of my thought to others.",
@@ -88,7 +88,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "I found out that it is sometimes hard to communicate with others. I will try to find some ways to solve this problem",
         ],
         [
-          'sentence' => "Today was a hard day. So, I am very tired right now.",
+          'sentence' => "Today was a hard day because we have some difficulties. I am very tired to solve these problems.",
         ],
         [
           'sentence' => "I know it’s hard to achieve our goal , but I'll do what I can do.",
@@ -148,7 +148,7 @@ class HardTableSeeder extends Seeder
           'sentence' => "It is sometimes a little bit difficult for us to have one conclusion as a team.",
         ],
         [
-          'sentence' => "We faced several difficult situations today. So, we must have a conversation tomorrow to solve each of them.",
+          'sentence' => "We faced several difficult situations today. We must have a conversation tomorrow to solve each of them.",
         ],
         [
           'sentence' => "It is so difficult to think logically and say things logically.",

@@ -43,7 +43,7 @@ class ImportantTableSeeder extends Seeder
           'sentence' => "I feel it was so important to concentrate on our daily training. I want to keep it in my mind.",
         ],
         [
-          'sentence' => "I realized the importance to work as a team, so I'll take care to contribute our teammates from tomorrow.",
+          'sentence' => "I realized the importance to work as a team. I'll take care to contribute our teammates from tomorrow.",
         ],
         [
           'sentence' => "I was here at 7am, and I reviewed yesterday's training content for a hour. I realized the importance of reviewing training's content. I want to keep it in my mind.",
@@ -79,7 +79,7 @@ class ImportantTableSeeder extends Seeder
           'sentence' => "It is very important for us to have sense of ownership. Each of us have to think what we can do to make this training better and better.",
         ],
         [
-          'sentence' => "I thought it is important to review what I learned today. So I will summarize it when I go home.",
+          'sentence' => "I thought it is important to review what I learned today. I will summarize it when I go home.",
         ],
         [
           'sentence' => "I realized that it is important to review what I have learned so far. So I will do that from tonight.",
@@ -88,10 +88,10 @@ class ImportantTableSeeder extends Seeder
           'sentence' => "I learned that seeing things from bird's-eye view is very important when we work as a team.",
         ],
         [
-          'sentence' => "It is very important to have a good relationship with my team. So I will talk to them aggressively.",
+          'sentence' => "It is very important to have a good relationship with my team. I will talk to them aggressively.",
         ],
         [
-          'sentence' => "I was able to learn the importance of working as a team through today's discussion. So I will try to speak to them aggressively to build a good relationship.",
+          'sentence' => "I was able to learn the importance of working as a team through today's discussion. I will try to speak to them aggressively to build a good relationship.",
         ],
         [
           'sentence' => "Having a good relationship with my team mates is very important aspect for me. I think we can not be creative without a good relationship. That's why I will try to build a good relationship.",

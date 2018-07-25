@@ -22,13 +22,13 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => 'I’m excited every day since I can get a lot of inputs. I am going to have a chance to output consciously.',
         ],
         [
-          'sentence' => 'When we had a lunch with doukis from other group, I was so excited to know their background deeply. So ,I am so curious about doukis and I want to know about doukis more.',
+          'sentence' => 'When we had a lunch with doukis from other group, I was so excited to know their background deeply. I am so curious about doukis and I want to know about doukis more.',
         ],
         [
           'sentence' => 'I was excited when I understood the meaning of this training. Before that, I was not sure the meaning of that. So, I will think the posture to this training over again.',
         ],
         [
-          'sentence' => 'I was so excited to know about our doukis who had a lot of background. So, I want to talk to them aggressively.',
+          'sentence' => 'I was so excited to know about our doukis who had a lot of background. I want to talk to them aggressively.',
         ],
         [
           'sentence' => "I'm excited about next training, because it includes some contents which I learned in my university.",
@@ -37,7 +37,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "My teammates were exciting today's training, because some of us were familiar with today's contents.",
         ],
         [
-          'sentence' => "We all felt excited about training, but also we exhausted at the same time. So, we decided to take some rest today's night at hot spring.",
+          'sentence' => "We all felt excited about training, but also we exhausted at the same time. We decided to take some rest today's night at hot spring.",
         ],
         [
           'sentence' => "I am very excited about this training. Because I can learn a lot of things and I have to review what I have learned so far at the same time. I can not wait tomorrow coming.",
@@ -67,7 +67,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I was so excited about today's training, because I could know about Rakuten deeply and so I might have a clear vision in my future career.",
         ],
         [
-          'sentence' => "We had a discussion today. A discussion about our feeling to this training was very excited and it was very constructive. So, I hope we can have this opportunity next week as well.",
+          'sentence' => "We had a discussion today. A discussion about our feeling to this training was very excited and it was very constructive. I hope we can have this opportunity next week as well.",
         ],
         [
           'sentence' => "I was so excited when I thought about me who work for assignmented place. At the same time, I thought I have to study hard about IT to use it for work.",
@@ -97,10 +97,10 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I was so excited that I couldn't sleep last night because of special event. To tell the truth, I got a partner. It was precious time.",
         ],
         [
-          'sentence' => "I was so excited about this training because there are loads of things to learn. So, when I go home, I have to review that all.",
+          'sentence' => "I was so excited about this training because there are loads of things to learn. When I go home, I have to review that all.",
         ],
         [
-          'sentence' => "It was so excited to know that I could work different type of jobs in just one company. So, I have to think over again that what I want to do as a job.",
+          'sentence' => "It was so excited to know that I could work different type of jobs in just one company. I have to think over again that what I want to do as a job.",
         ],
         [
           'sentence' => "When we could know that we have a lot of chances to work for different type jobs, I was excited about our future. I will try to know what is the job I want to do.",
@@ -124,19 +124,19 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I am very excited about doukis. Because I think I can learn a lot of things from people who have different background. I will speak to them aggressively to earn differernt points of views.",
         ],
         [
-          'sentence' => "I am so excited about this training because I can learn a lot of new things and I think I can grow up from learning new things. So, I want to keep having this mind.",
+          'sentence' => "I am excited about this training because I can learn a lot of new things and I think I can grow up by learning new things. So, I want to keep having this mind.",
         ],
         [
-         'sentence' => "I am so excited with this training because I can learn a lot of new things and I think I can grow up from learning new things. So, I want to keep having this mind.",
+         'sentence' => "I am excited with this training because I can learn a lot of new things and I think I can grow up by learning new things. So, I want to keep having this mind.",
         ],
         [
-          'sentence' => "I am so excited with this training because I can learn a lot of new things and I can grow up from learning new things. So, I want to keep having this mind.",
+          'sentence' => "I am excited with this training because I can learn a lot of new things and I can grow up by learning new things. I want to keep this in my mind.",
         ],
         [
-          'sentence' => "I am so excited about this training because I can learn a lot of new things and I can grow up from learning new things. So, I want to keep having this mind.",
+          'sentence' => "I am excited about this training because I can learn a lot of new things and I can grow up by learning new things.  I want to keep this in my mind.",
        ],
         [
-          'sentence' => "I am so excited about this training because I can learn a lot of new things and I can grow up from learning new things.  At the same time, I know I have to review the things. I know it is not easy, but it is so good for our own career. So, I want to keep having this mind.",
+          'sentence' => "I am so excited about this training because I can learn a lot of new things and I can grow up by learning new things.  At the same time, I know I have to review the things. I know it is not easy, but it is so good for our own career. So, I want to keep having this mind.",
         ],
         [
           'sentence' => "I am so excited about this training because I can learn a lot of new things. At the same time, I know I have to review the things. I know it is not easy, but it is so good for our own career. So, I want to keep having this mind.",

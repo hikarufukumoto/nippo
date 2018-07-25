@@ -49,16 +49,16 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I am looking forward to getting more knowledge from every session we are going to join.",
         ],
         [
-          'sentence' => "I am looking forward to meeting all doukis everyday. All of my doukis have a good abilities in many aspects. So I can spend precious time.",
+          'sentence' => "I am looking forward to meeting all doukis everyday. All of my doukis have a good abilities in many aspects. I can spend precious time.",
         ],
         [
-          'sentence' => "All of my teammates have outstanding abilities. So I'm looking forward to meeting them everyday.",
+          'sentence' => "All of my teammates have outstanding abilities. I'm looking forward to meeting them everyday.",
         ],
         [
           'sentence' => "I am able to spend precious time everyday, because I have many good friends in doukis. I'm looking forward to meeting them everyday.",
         ],
         [
-          'sentence' => "We are so looking forward to meeting all doukis everyday. All of our doukis have a good abilities in many aspects. I think we are spending precious time.",
+          'sentence' => "We are looking forward to meeting all doukis everyday. All of our doukis have a good abilities in many aspects. I think we are spending precious time.",
         ],
         [
           'sentence' => "I'm looking forward to meeting our teammates everyday. And My teammates are looking forward to meeting me, too. That is because we can create a good relationships each other.",
@@ -85,7 +85,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "We will devote ourselves to make our training really great and look forward to showing our progress to everyone.",
         ],
         [
-          'sentence' => "I am so curious about new things, so I'm looking forward to learning about what we don't know. I will try new things aggressively.",
+          'sentence' => "I am curious about new things. I'm looking forward to learning about what we don't know. I will try new things aggressively.",
         ],
         [
           'sentence' => "I am not sure what is exactly business casual.I'm looking forward to seeing my douki's fashion and at the same time, I have to learn from them.",
@@ -103,7 +103,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I'm looking forward to working with my teammates because I like my team and I think we can have a good relationship as a team.",
         ],
         [
-          'sentence' => "I’m so looking forward to corporating with our team members. Then, I wish our dream will come true.",
+          'sentence' => "I’m looking forward to corporating with our team members. Then, I wish our dream will come true.",
         ],
         [
           'sentence' => "I'm looking forward to doing my best tomorrow and I hope I have a great day tomorrow.",
@@ -136,7 +136,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I am not sure how well we will be able to accomplish this, but I am looking forward to working on this assignment.",
         ],
         [
-          'sentence' => "We will have a lunch with sempai tomorrow, so I am looking forward to that. I want to absorb a lot of things from him.",
+          'sentence' => "We will have a lunch with sempai tomorrow. I am looking forward to that. I want to absorb a lot of things from him.",
         ],
         [
           'sentence' => "I am looking forward to achieving my dream, but I think we should be really careful not to think about our ideal product too much.",

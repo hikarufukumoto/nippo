@@ -25,10 +25,10 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I faced a lot of errors during coding training which made me tired, but my teammates helped me kindly.",
         ],
         [
-          'sentence' => "I was so tired to solve our problem today, but it was a good opportunity to cooperate with each other.",
+          'sentence' => "I was tired to solve our problem today, but it was a good opportunity to cooperate with each other.",
         ],
         [
-          'sentence' => "I was so tired because I managed to keep deep concentration towards coding and learned a lot of things.",
+          'sentence' => "I was tired because I managed to keep deep concentration towards coding and learned a lot of things.",
         ],
         [
           'sentence' => "We are going to handle a lot of tasks tomorrow. Since I am so tired today, I should take a good rest after going home.",
@@ -43,7 +43,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I felt that everyone was tired today and there was an intense atmosphere.",
         ],
         [
-          'sentence' => "It was extremely hard for us to find errors, so we were extremely tired.",
+          'sentence' => "We were tired because it was extremely hard for us to find errors.",
         ],
         [
           'sentence' => "I was so tired because I was able to keep deep concentration and learned a lot of things.",
@@ -58,13 +58,13 @@ class TiredTableSeeder extends Seeder
           'sentence' => "As every member looked tired today, I will manage some time to take a break in order not to make them sick.",
         ],
         [
-          'sentence' => "Since I feel so tired, I am going to take a break relaxing after back home.",
+          'sentence' => "Since I feel tired, I am going to take a break relaxing after back home.",
         ],
         [
           'sentence' => "I have learned many things today and my brain is now really tired.",
         ],
         [
-          'sentence' => "I was really tired today so I will go to bed early and take lots of rest.",
+          'sentence' => "I was really tired today. I will go to bed early and take lots of rest.",
         ],
         [
           'sentence' => "I got tired because many errors occurred today.",
@@ -97,7 +97,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "My brain got tired so much, but I also had fun to think how to fix errors.",
         ],
         [
-          'sentence' => "I am so tired because of the lack of sleep. It affects my work, so I will go to bed early tonight and recover by next morning.",
+          'sentence' => "I am so tired because of the lack of sleep. It affects my work. I will go to bed early tonight and recover by next morning.",
         ],
         [
           'sentence' => "I was feeling a little tired in the morning, but as we started working hard I was able to gradually concentrate on the tasks.",
@@ -127,10 +127,10 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I’m really tired now and some group member caught a cold, so I should take care of myself too.",
         ],
         [
-          'sentence' => "This is the first time I’ve ever had to work on an error all day, so I feel pretty tired.",
+          'sentence' => "This is the first time I’ve ever had to work on an error all day. I feel pretty tired.",
         ],
         [
-          'sentence' => "I am feeling quite tired today so I will have a good rest at home tonight.",
+          'sentence' => "I am feeling quite tired today. I will have a good rest at home tonight.",
         ],
         [
           'sentence' => "I think most team members will get more tired during this training.",
@@ -142,7 +142,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "Unfortunately we were all tired and couldn’t make much progress than we expected.",
         ],
         [
-          'sentence' => "I’m so tired now, so I need to take enough rest and prepare for tomorrow.",
+          'sentence' => "I’m so tired now. I need to take enough rest and prepare for tomorrow.",
         ],
         [
           'sentence' => "I was so tired today, but so happy to think about my career in the future.",
@@ -160,7 +160,7 @@ class TiredTableSeeder extends Seeder
           'sentence' => "I was so tired today because we couldn’t find good solutions for our problems.",
         ],
         [
-          'sentence' => "I am so tired right now, so I will sleep early to refresh myself to concentrate well tomorrow.",
+          'sentence' => "I am so tired because of complex coding. I will sleep early to refresh myself to concentrate well tomorrow.",
         ],
   
  ]);

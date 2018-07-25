@@ -16,10 +16,10 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I was very happy when some friends came to talk to me during training. It was a good chance to know about each other.",
         ],
         [
-          'sentence' => "I am so happy that each of us worked so seriously and took some rest efficiently.",
+          'sentence' => "I am so happy that each of us worked seriously and took some rest efficiently.",
         ],
         [
-          'sentence' => "I was proud of my team because were able to solve our problem today. I was so happy to see my team member's smile.",
+          'sentence' => "I was proud of my team because we were able to solve our problem today. I was so happy to see my team member's smile.",
         ],
         [
           'sentence' => "Because we were stuck from yesterday, we felt happy when we were able to solve our problems.",
@@ -28,7 +28,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "We were able to overcome a difficulty by cooperating with each other. I am happy to be able to join and work as a good team.",
         ],
         [
-          'sentence' => "I was so happy that I was rewarded by other group members. I would like to keep studying to contribute to our team.",
+          'sentence' => "I was happy that I was rewarded by other group members. I would like to keep studying to contribute to our team.",
         ],
         [
           'sentence' => "We were very happy since we had a good conversation among our team. We would like to keep good conversations for good team building",
@@ -103,7 +103,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "I am so happy to have a good relationship with my team members. We will keep working hard.",
         ],
         [
-          'sentence' => "I now know how happy I am to take part of this team to work together.",
+          'sentence' => "Now I know how happy I am to take part in this team to work together. So, I will keep this connection good.",
         ],
         [
           'sentence' => "Since we were able to work well as one team, I felt very happy today. I thought that it was very important to cooperate with each other for better results.",

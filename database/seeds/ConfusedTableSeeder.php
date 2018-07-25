@@ -26,10 +26,10 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "The more I think about many things, the more I get confused and can’t decide what I really want to do. But I want to keep seeking what I want to do.",
         ],
          [
-          'sentence' => "I was surprised and confused about what I have learned new today. So, I want to review today’s training contents.",
+          'sentence' => "I was surprised and confused about what I have learned new today. I want to review today’s training contents.",
         ],
          [
-          'sentence' => "I was confused about what should I do first. So, I want to write to do list from tomorrow.",
+          'sentence' => "I was confused about what should I do first. I want to write todo list from tomorrow.",
         ],
          [
           'sentence' => "I am very confused because I had to absorb huge amount of information. I want to take a rest after finishing this new grads’ training.",
@@ -38,19 +38,19 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I tried to understand the contents by myself but I just ended up being confused.",
         ],
          [
-          'sentence' => "I was confused recent new grads’ training contents, so I need to review it and I want to master it.",
+          'sentence' => "I was confused recent new grads’ training contents. I need to review it and I want to master it.",
         ],
          [
           'sentence' => "I am confused the number of doukis and I am not sure I can remember the name of them. But I try to do it.",
         ],
         [
-          'sentence' => "Today's contents were so difficult. So I am very confused about it. But I want to master it, so I need to review it.",
+          'sentence' => "Today's contents were so difficult. I am very confused about it. But I want to master it, so I need to review it.",
         ],
         [
-          'sentence' => "Today's contents confused me. So, I need to review what I learned.",
+          'sentence' => "Today's contents confused me. I need to review what I learned.",
         ],
         [
-          'sentence' => "We had discussions in my team but I confused the issue. So, I need to think logically.",
+          'sentence' => "We had discussions in my team but I confused the issue. I need to think logically.",
         ],
         [
           'sentence' => "I am sorry to confuse my team by a dopey answer in discussion. I had to reflect on my behavior and not to do again.",
@@ -59,7 +59,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I was confused by today's contents because there were a lot of things to remember. So, I need to review it.",
         ],
         [
-          'sentence' => "There were a lot of things to remember. So, I am very confused right now. I want to take enough rest.",
+          'sentence' => "There were a lot of things to remember. I am very confused right now. I want to take enough rest.",
         ],
         [
           'sentence' => "I have to say sorry to my team because I made them confused by being assertive.",
@@ -92,7 +92,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I thought my teammates were confused by creative idea that I suggested, so I wanted them to reach my level.",
         ],
          [
-          'sentence' => "The more I think about my career, the more I get confused. So, I decide to meet sempai and absorb their thought and experience.",
+          'sentence' => "The more I think about my career, the more I get confused. I decide to meet sempai and absorb their thought and experience.",
         ],
          [
           'sentence' => "I was surprised and a little confused about what I have learned new today, but I'm happy to know that.",
@@ -107,7 +107,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I had a lot to discuss with my team mates and I’m a little bit confused but I don’t stop thinking and trying to make a good one.",
         ],
          [
-          'sentence' => "I’ve learned a lot of skills, so I am completely confused today. But I will never give up. I want to make efforts continuously.",
+          'sentence' => "I’ve learned a lot of skills. I am completely confused today. I want to make efforts continuously.",
         ],
          [
           'sentence' => "I am totally confused because today's task was very difficult to understand. I will try to make efforts continuously.",
@@ -122,7 +122,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I sometimes got confused because I didn't know what my teammate thought. I need to make effort to know them.",
         ],
          [
-          'sentence' => "I learned a lot of things about business today. So, many things confused me. But, I think that I want to solve the issue one by one.",
+          'sentence' => "I learned a lot of things about business today. Many things confused me. But, I think that I want to solve the issue one by one.",
         ],
          [
           'sentence' => "Actually, I have never had such a trying time in my life. So many things that we have learned so far to confuse me.",
