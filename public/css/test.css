@@ -497,6 +497,21 @@ border: 2px solid #FF9914;
 	top:0%;
 }
 
+@media(min-width:769px){
 .tenten{
     font-size:50px;
+    color:white;
+}
+.hosoku{
+    margin-left:400px;
+}
+}
+
+@media(max-width:768px){
+ .tenten{
+     color:#FF6B60;
+ }
+ .hosoku{
+    margin-left:140px;
+}
 }
