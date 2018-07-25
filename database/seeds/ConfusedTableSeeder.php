@@ -74,9 +74,6 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I was confused about what was the most important task I should do in this training. Because there are a lot of things that I need to do.",
         ],
          [
-          'sentence' => "I'm still confused about why Sakura-san is always angry. I respect her so I want to support her.",
-        ],
-         [
           'sentence' => "I was sorry that I made my teammates confused because of my domineering attitude. I have to reflect on my today’s behavior.",
         ],
          [
@@ -87,9 +84,6 @@ class ConfusedTableSeeder extends Seeder
         ],
          [
           'sentence' => "I am very confused and frustrating why my teammates always scolded me. I decided to close the distance between our hearts by inviting them to dinner.",
-        ],
-         [
-          'sentence' => "I thought my teammates were confused by creative idea that I suggested, so I wanted them to reach my level.",
         ],
          [
           'sentence' => "The more I think about my career, the more I get confused. I decide to meet sempai and absorb their thought and experience.",
@@ -125,7 +119,7 @@ class ConfusedTableSeeder extends Seeder
           'sentence' => "I learned a lot of things about business today. Many things confused me. But, I think that I want to solve the issue one by one.",
         ],
          [
-          'sentence' => "Actually, I have never had such a trying time in my life. So many things that we have learned so far to confuse me.",
+          'sentence' => "Actually, I have never had such a trying time in my life. So many things that we have learned so far is confusing me.",
         ],
         [
           'sentence' => "Through today's training, I felt a lack of ability. I need not confuse the ideal with the real. I thought that I need to rethink my ability and what I wanted to do.",

@@ -28,7 +28,7 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => 'I was excited when I understood the meaning of this training. Before that, I was not sure the meaning of that. So, I will think the posture to this training over again.',
         ],
         [
-          'sentence' => 'I was so excited to know about our doukis who had a lot of background. I want to talk to them aggressively.',
+          'sentence' => 'I was so excited to know about our doukis who has a lot of backgrounds. I want to talk to them aggressively.',
         ],
         [
           'sentence' => "I'm excited about next training, because it includes some contents which I learned in my university.",
@@ -112,10 +112,10 @@ class ExcitedTableSeeder extends Seeder
           'sentence' => "I am so excited about this training right now. Because there are a lot of things to learn. It is happy to have this opportunity. So, I will try everything aggressively.",
         ],
         [
-          'sentence' => "I was so excited about this training. Because there are a lot of things to learn and at the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after going home.",
+          'sentence' => "I was so excited about this training. Because there are a lot of things to learn and at the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after I get home.",
         ],
         [
-          'sentence' => "I was so excited about this training because there are a lot of things to learn. At the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after going home.",
+          'sentence' => "I was so excited about this training because there are a lot of things to learn. At the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after I get home.",
         ],
         [
           'sentence' => "I am so excited about this training because there are a lot of things to learn in this training and at the same time, we have to make a big effort to review what we have learned so far. So, I will do that right after going home.",

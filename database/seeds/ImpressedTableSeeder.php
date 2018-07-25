@@ -88,40 +88,40 @@ class ImpressedTableSeeder extends Seeder
           'sentence' => "I was impressed by sempai because he is so good at managing both jobs and private things. I am not good at managing time, so I have to learn that skill from him.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Absorb what is useful, Discard what is not, Add what is uniquely your own.'. This means that it is not enough to just absorb things, we should add something to what I absorbed. So I will do that aggressively from now on.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Absorb what is useful, Discard what is not, Add what is uniquely your own.'. This means that it is not enough to just absorb things, we should add something to what I absorbed. So I will do that aggressively from now on.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'When there is no hope, there can be no endeavor.' So I will be optimistic for everything and do everything aggressively.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'When there is no hope, there can be no endeavor.'  I will be optimistic for everything and do everything aggressively.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Read more , write less. Speak less, listen more.' This means it is more important to input from outside. So I will focus on inputting things.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Read more , write less. Speak less, listen more.' This means it is more important to input from outside. I will focus on inputting things.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is  'A goal without a plan is just a wish.' So I will make a specific plan for my goal after going home tonight.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is  'A goal without a plan is just a wish.' I will make a specific plan for my goal after going home tonight.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'You must do the thing you think you cannot do.' I didn't do things I could not do , but now I can know that I have to do things which I don't want to and I can not do to grow up. So I will pay attention to those things as a first step.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'You must do the thing you think you cannot do.' I didn't do things I could not do , but now I can know that I have to do things which I don't want to and I can not do to grow up. I will pay attention to those things as a first step.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Failure is success if we learn from it.' So I will not afraid of making any mistakes and try to do my best to learn something from them.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Failure is success if we learn from it.' I will not afraid of making any mistakes and try to do my best to learn something from them.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'If you’re not confused, you’re not paying attention.' Recently, I have been confused by various things so many times. And I can know it is not bad thing and means I have been paying attention to those things. But it makes me so tired, so I will try to relax.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'If you’re not confused, you’re not paying attention.' Recently, I have been confused by various things so many times. And I can know it is not bad thing and means I have been paying attention to those things. But it makes me so tired, so I will try to relax.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Be not afraid of going slowly, be afraid only of standing still.' Recently I have tried to do things so quickly and I thought it was good for job. But now I think it is more important to do things correctly even if the pace is slow and so I will focus on doing things correctly.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Be not afraid of going slowly, be afraid only of standing still.' Recently I have tried to do things so quickly and I thought it was good for job. But now I think it is more important to do things correctly even if the pace is slow and so I will focus on doing things correctly.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'The start is what stops most people.' I think this means that everyone take a lot of time when they start something new. So I can know that I don't need to be rush and so I will focus on absorbing the thing I am learning now.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'The start is what stops most people.' I think this means that everyone take a lot of time when they start something new. So I can know that I don't need to be rush and so I will focus on absorbing the thing I am learning now.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Kind words can be short and easy but their echoes are truly endless.' I guess instances of those word are like 'thank you ','I love you' and 'sorry'. So I will try to use those word aggressively to make people happy.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Kind words can be short and easy but their echoes are truly endless.' I guess instances of those word are like 'thank you ','I love you' and 'sorry'. So I will try to use those word aggressively to make people happy.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Don’t wait. The time will never be just right.' I think this means that don't hesitate to do new things, just try it . So I will try to do new things aggressively and I am not afraid of trying new things.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Don’t wait. The time will never be just right.' I think this means that don't hesitate to do new things, just try it . So I will try to do new things aggressively and I am not afraid of trying new things.",
         ],
         [
-          'sentence' => "I was impressed by the word which was in the book I read. The word is 'Love is all we have, the only way that each can help the other.' I think Shibade-su desu should know this word. He is insane because he is lack of love and he does not understand the true meaning of love.",
+          'sentence' => "I was impressed by the word which was written in the book I read. The word is 'Love is all we have, the only way that each can help the other.' I think Shibade-su desu should know this word. He is insane because he is lack of love and he does not understand the true meaning of love.",
         ],
         [
           'sentence' => "I impressed my teammate with their hard work and attention to detail. I want to be them so I must study hard and continue efforts.",

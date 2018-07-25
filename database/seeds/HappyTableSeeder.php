@@ -106,7 +106,7 @@ class HappyTableSeeder extends Seeder
           'sentence' => "Now I know how happy I am to take part in this team to work together. So, I will keep this connection good.",
         ],
         [
-          'sentence' => "Since we were able to work well as one team, I felt very happy today. I thought that it was very important to cooperate with each other for better results.",
+          'sentence' => "Since we were able to work well as one team, I felt very happy today. I think it's very important to cooperate with each other for better results.",
        ],
         [
           'sentence' => "I think our group members were all happy because we were able to solve several problems we had today.",

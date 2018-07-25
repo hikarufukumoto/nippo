@@ -76,7 +76,7 @@ class ExpectTableSeeder extends Seeder
           'sentence' => "I'm looking forward to eating a lunch with doukis. Because they have a different point of view to think and I can learn a lot of things from them.",
         ],
         [
-          'sentence' => "I'm looking forward to getting to know character of doukis because they have many experiences which I don't have and I can learn different ways of thinking from them.",
+          'sentence' => "I'm looking forward to getting to know doukis' character because they have many experiences which I don't have and I can learn different ways of thinking from them.",
         ],
         [
           'sentence' => "I am looking forward to getting some feedbacks from other department's senpais at the end of this training.",
