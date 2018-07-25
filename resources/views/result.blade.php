@@ -105,7 +105,10 @@
           <div class="smart3">SMART Goal 3: @foreach($smartgoal3 as $o){{$o->sentence}}@endforeach
           <br>➣ Why→ @foreach($why3 as $r){{$r->sentence}}@endforeach</br>
           </div>
-                         
+          
+          <div class="tyuui">
+           <br>※この結果はあくまで参考ですので、使用に関して如何なる責任も負いません。
+          </div>
                          </div>
                        
     </div>
