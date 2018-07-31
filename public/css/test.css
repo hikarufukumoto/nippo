@@ -107,7 +107,7 @@ input#submit_button {
     color:white;
     font-size: 25pt;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
-    margin-left: 70px;
+    margin-left: 30px;
 }
 
 .intro2{
@@ -499,11 +499,11 @@ border: 2px solid #FF9914;
 
 @media(min-width:769px){
 .tenten{
-    font-size:50px;
+    font-size:40px;
     color:white;
 }
 .hosoku{
-    margin-left:400px;
+    margin-left:430px;
 }
 }
 
@@ -512,11 +512,15 @@ border: 2px solid #FF9914;
      color:#FF6B60;
  }
  .hosoku{
-    margin-left:140px;
+    margin-left:160px;
 }
 }
 
 .tyuui{
     color:red;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.step{
+    color:red;
 }
