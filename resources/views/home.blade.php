@@ -52,7 +52,7 @@
                 ① Today, I worked on </span><span class="intro2"><input type="text" id=dounyu name="shiba" "value="" placeholder=" ex) PHP, coding etc."><span class="tenten">．</span> <span class="hosoku">　☝ここに入力して下さい。</span>
             <br><br>
         </div>
-        <div class="text1">② Please choose more than 3 feelings from followings.</div>
+        <div class="text1">② Please choose 3 ~ 5 feelings from followings.</div>
         <section id="section-1" class="section">
         <div class="choose">
         
